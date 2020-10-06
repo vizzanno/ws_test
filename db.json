@@ -70,6 +70,83 @@
     "dif": 5245,
     "tendencia": "descer"
   },
+  "repac": {
+    "participantes": [
+      {
+        "nome": "ADRIANA S. DE OLIVEIRA",
+        "cargo": "PRESIDENTE",
+        "entidade": "SINDICATO DOS TRABALHADORES RURAIS",
+        "observador": false
+      },
+      {
+        "nome": "ANA PAULA RODRIGUES DE SOUZA",
+        "cargo": "ASSESSORA TÉCNICA",
+        "entidade": "SECRETARIA DE AMBIENTE, AGRICULTURA, ABASTECIMENTO E PESCA",
+        "observador": false
+      },
+      {
+        "nome": "CLÁUDIO LEÃO BARRETO",
+        "cargo": "SECRETÁRIO",
+        "entidade": "SECRETARIA DE AMBIENTE, AGRICULTURA, ABASTECIMENTO E PESCA",
+        "observador": false
+      },
+      {
+        "nome": "Eduardo da Silva",
+        "cargo": "Coordenador Nacional de Assuntos Aleatórios",
+        "entidade": "EMATEste",
+        "observador": false
+      },
+      {
+        "nome": "EVERTON DE OLIVEIRA LESSA ",
+        "cargo": "SUPERVISOR LOCAL",
+        "entidade": "EMATER/RJ",
+        "observador": false
+      },
+      {
+        "nome": "IZAÍAS PEREIRA DE ANDRADE",
+        "cargo": "SUPERINTENDENTE DE AMBIENTE",
+        "entidade": "SECRETARIA DE AMBIENTE, AGRICULTURA, ABASTECIMENTO E PESCA",
+        "observador": false
+      },
+      {
+        "nome": "LUCIA DE SOUZA",
+        "cargo": "ANALISTA",
+        "entidade": "EMATER",
+        "observador": false
+      },
+      {
+        "nome": "Luciana",
+        "cargo": "Coordenador Nacional de CMGE",
+        "entidade": "IBGEteste",
+        "observador": false
+      },
+      {
+        "nome": "LUCIANO VIEIRA CALHEIA",
+        "cargo": "TÉCNICO AGROPECUÁRIO",
+        "entidade": "SECRETARIA DE AMBIENTE, AGRICULTURA, ABASTECIMENTO E PESCA",
+        "observador": false
+      },
+      {
+        "nome": "LUIZ CLAUDIO PORTO DO NASCIMENTO",
+        "cargo": "SSP",
+        "entidade": "PREFEITURA MUNICIPAL DE ARARUAMA",
+        "observador": false
+      },
+      {
+        "nome": "MARLY DA SILVA GONÇALVES",
+        "cargo": "OFICIAL ADMINISTRATIVO",
+        "entidade": "CÂMARA MUNICIPAL DE ARAUAMA",
+        "observador": false
+      }
+    ],
+    "info": {
+      "data": "2020-02-28 10:00:00",
+      "cod_subarea": "3300209200",
+      "siape_presidente": "1519618",
+      "local": "Prefeitura de Araruama",
+      "tipo": "segunda"
+    }
+  },
   "info": {
     "cod_mun": "3300209",
     "nome_mun": "ARARUAMA",
