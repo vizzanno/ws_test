@@ -70,6 +70,204 @@
     "dif": 5245,
     "tendencia": "descer"
   },
+  "setores": {
+    "tipo": [
+      {
+        "distrito": "05",
+        "total": "235",
+        "cod": "0",
+        "desc": "Não especial"
+      },
+      {
+        "distrito": "05",
+        "total": "54",
+        "cod": "1",
+        "desc": "Aglomerado subnormal"
+      },
+      {
+        "distrito": "05",
+        "total": "2",
+        "cod": "4",
+        "desc": "Setores com baixo patamar domiciliar"
+      },
+      {
+        "distrito": "08",
+        "total": "65",
+        "cod": "0",
+        "desc": "Não especial"
+      },
+      {
+        "distrito": "08",
+        "total": "7",
+        "cod": "1",
+        "desc": "Aglomerado subnormal"
+      },
+      {
+        "distrito": "08",
+        "total": "1",
+        "cod": "4",
+        "desc": "Setores com baixo patamar domiciliar"
+      },
+      {
+        "distrito": "10",
+        "total": "33",
+        "cod": "0",
+        "desc": "Não especial"
+      },
+      {
+        "distrito": "10",
+        "total": "8",
+        "cod": "1",
+        "desc": "Aglomerado subnormal"
+      },
+      {
+        "distrito": "10",
+        "total": "1",
+        "cod": "9",
+        "desc": "Comunidade quilombola"
+      },
+      {
+        "distrito": "12",
+        "total": "45",
+        "cod": "0",
+        "desc": "Não especial"
+      },
+      {
+        "distrito": "12",
+        "total": "1",
+        "cod": "4",
+        "desc": "Setores com baixo patamar domiciliar"
+      },
+      {
+        "distrito": "15",
+        "total": "49",
+        "cod": "0",
+        "desc": "Não especial"
+      },
+      {
+        "distrito": "15",
+        "total": "13",
+        "cod": "1",
+        "desc": "Aglomerado subnormal"
+      },
+      {
+        "distrito": "15",
+        "total": "1",
+        "cod": "9",
+        "desc": "Comunidade quilombola"
+      }
+    ],
+    "situacao": [
+      {
+        "distrito": "05",
+        "total": "270",
+        "cod": "1",
+        "desc": "Situação urbana - Cidade ou vila - Área urbanizada"
+      },
+      {
+        "distrito": "05",
+        "total": "18",
+        "cod": "2",
+        "desc": "Situação urbana - Cidade ou vila - Área não urbanizada"
+      },
+      {
+        "distrito": "05",
+        "total": "2",
+        "cod": "8",
+        "desc": "Situação rural - Área rural"
+      },
+      {
+        "distrito": "05",
+        "total": "1",
+        "cod": "9",
+        "desc": "Massa de água"
+      },
+      {
+        "distrito": "08",
+        "total": "64",
+        "cod": "1",
+        "desc": "Situação urbana - Cidade ou vila - Área urbanizada"
+      },
+      {
+        "distrito": "08",
+        "total": "6",
+        "cod": "2",
+        "desc": "Situação urbana - Cidade ou vila - Área não urbanizada"
+      },
+      {
+        "distrito": "08",
+        "total": "1",
+        "cod": "8",
+        "desc": "Situação rural - Área rural"
+      },
+      {
+        "distrito": "08",
+        "total": "2",
+        "cod": "9",
+        "desc": "Massa de água"
+      },
+      {
+        "distrito": "10",
+        "total": "11",
+        "cod": "1",
+        "desc": "Situação urbana - Cidade ou vila - Área urbanizada"
+      },
+      {
+        "distrito": "10",
+        "total": "18",
+        "cod": "2",
+        "desc": "Situação urbana - Cidade ou vila - Área não urbanizada"
+      },
+      {
+        "distrito": "10",
+        "total": "13",
+        "cod": "8",
+        "desc": "Situação rural - Área rural"
+      },
+      {
+        "distrito": "12",
+        "total": "31",
+        "cod": "1",
+        "desc": "Situação urbana - Cidade ou vila - Área urbanizada"
+      },
+      {
+        "distrito": "12",
+        "total": "10",
+        "cod": "2",
+        "desc": "Situação urbana - Cidade ou vila - Área não urbanizada"
+      },
+      {
+        "distrito": "12",
+        "total": "5",
+        "cod": "9",
+        "desc": "Massa de água"
+      },
+      {
+        "distrito": "15",
+        "total": "24",
+        "cod": "1",
+        "desc": "Situação urbana - Cidade ou vila - Área urbanizada"
+      },
+      {
+        "distrito": "15",
+        "total": "17",
+        "cod": "2",
+        "desc": "Situação urbana - Cidade ou vila - Área não urbanizada"
+      },
+      {
+        "distrito": "15",
+        "total": "4",
+        "cod": "3",
+        "desc": "Situação urbana - Área urbana isolada"
+      },
+      {
+        "distrito": "15",
+        "total": "18",
+        "cod": "8",
+        "desc": "Situação rural - Área rural"
+      }
+    ]
+  },
   "repac": {
     "participantes": [
       {
@@ -148,17 +346,6 @@
     }
   },
   "info": {
-    "cod_mun": "3300209",
-    "nome_mun": "ARARUAMA",
-    "cod_agencia": "330070400",
-    "nome_agencia": "CABO FRIO",
-    "data": "2020-10-06 10:22:28",
-    "fonte": [
-      "SIDRA/IBGE",
-      "BDO/COC/IBGE"
-    ]
-  },
-  "info2": {
     "cod_mun": "3300209",
     "nome_mun": "ARARUAMA",
     "cod_agencia": "330070400",
