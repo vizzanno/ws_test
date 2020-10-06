@@ -21,53 +21,375 @@
       "2020"
     ],
     "valores": [
-      55927,
-      56908,
-      57930,
-      60076,
-      61263,
-      62442,
-      59134,
-      59537,
-      61817,
-      62308,
-      64405,
-      65090,
-      65769,
-      66442,
-      67110,
-      67578,
-      68228,
-      68867
+      85626,
+      87806,
+      90128,
+      95003,
+      97701,
+      100378,
+      107285,
+      109705,
+      114250,
+      116418,
+      118964,
+      120948,
+      122865,
+      124940,
+      126742,
+      130439,
+      132400,
+      134293
     ],
     "faixas": [
-      2.2,
-      2.2,
-      2.2,
-      2.2,
-      2.4,
-      2.4,
-      2.2,
-      2.2,
-      2.4,
-      2.4,
-      2.4,
-      2.4,
-      2.4,
-      2.4,
-      2.4,
-      2.4,
-      2.4,
-      2.4
+      2.8,
+      2.8,
+      2.8,
+      3,
+      3,
+      3,
+      3.2,
+      3.2,
+      3.2,
+      3.4,
+      3.4,
+      3.4,
+      3.4,
+      3.4,
+      3.4,
+      3.6,
+      3.6,
+      3.6
     ]
   },
   "risco": {
     "ano": 2020,
-    "valorAnterior": 61128,
-    "faixa": 2.4,
-    "valor": 68867,
-    "valorPosterior": 71317,
-    "dif": 2450,
-    "tendencia": "subir"
+    "valorAnterior": 129048,
+    "faixa": 3.6,
+    "valor": 134293,
+    "valorPosterior": 142633,
+    "dif": 5245,
+    "tendencia": "descer"
+  },
+  "censos": {
+    "pop_residente": {
+      "2000": {
+        "Total": "82803",
+        "Homens": "40828",
+        "Mulheres": "41975"
+      },
+      "2010": {
+        "Total": "112008",
+        "Homens": "54283",
+        "Mulheres": "57725"
+      }
+    }
+  },
+  "setores": {
+    "tipo": [
+      {
+        "distrito": "05",
+        "total": "235",
+        "cod": "0",
+        "desc": "Não especial"
+      },
+      {
+        "distrito": "05",
+        "total": "54",
+        "cod": "1",
+        "desc": "Aglomerado subnormal"
+      },
+      {
+        "distrito": "05",
+        "total": "2",
+        "cod": "4",
+        "desc": "Setores com baixo patamar domiciliar"
+      },
+      {
+        "distrito": "08",
+        "total": "65",
+        "cod": "0",
+        "desc": "Não especial"
+      },
+      {
+        "distrito": "08",
+        "total": "7",
+        "cod": "1",
+        "desc": "Aglomerado subnormal"
+      },
+      {
+        "distrito": "08",
+        "total": "1",
+        "cod": "4",
+        "desc": "Setores com baixo patamar domiciliar"
+      },
+      {
+        "distrito": "10",
+        "total": "33",
+        "cod": "0",
+        "desc": "Não especial"
+      },
+      {
+        "distrito": "10",
+        "total": "8",
+        "cod": "1",
+        "desc": "Aglomerado subnormal"
+      },
+      {
+        "distrito": "10",
+        "total": "1",
+        "cod": "9",
+        "desc": "Comunidade quilombola"
+      },
+      {
+        "distrito": "12",
+        "total": "45",
+        "cod": "0",
+        "desc": "Não especial"
+      },
+      {
+        "distrito": "12",
+        "total": "1",
+        "cod": "4",
+        "desc": "Setores com baixo patamar domiciliar"
+      },
+      {
+        "distrito": "15",
+        "total": "49",
+        "cod": "0",
+        "desc": "Não especial"
+      },
+      {
+        "distrito": "15",
+        "total": "13",
+        "cod": "1",
+        "desc": "Aglomerado subnormal"
+      },
+      {
+        "distrito": "15",
+        "total": "1",
+        "cod": "9",
+        "desc": "Comunidade quilombola"
+      }
+    ],
+    "situacao": [
+      {
+        "distrito": "05",
+        "total": "270",
+        "cod": "1",
+        "desc": "Situação urbana - Cidade ou vila - Área urbanizada"
+      },
+      {
+        "distrito": "05",
+        "total": "18",
+        "cod": "2",
+        "desc": "Situação urbana - Cidade ou vila - Área não urbanizada"
+      },
+      {
+        "distrito": "05",
+        "total": "2",
+        "cod": "8",
+        "desc": "Situação rural - Área rural"
+      },
+      {
+        "distrito": "05",
+        "total": "1",
+        "cod": "9",
+        "desc": "Massa de água"
+      },
+      {
+        "distrito": "08",
+        "total": "64",
+        "cod": "1",
+        "desc": "Situação urbana - Cidade ou vila - Área urbanizada"
+      },
+      {
+        "distrito": "08",
+        "total": "6",
+        "cod": "2",
+        "desc": "Situação urbana - Cidade ou vila - Área não urbanizada"
+      },
+      {
+        "distrito": "08",
+        "total": "1",
+        "cod": "8",
+        "desc": "Situação rural - Área rural"
+      },
+      {
+        "distrito": "08",
+        "total": "2",
+        "cod": "9",
+        "desc": "Massa de água"
+      },
+      {
+        "distrito": "10",
+        "total": "11",
+        "cod": "1",
+        "desc": "Situação urbana - Cidade ou vila - Área urbanizada"
+      },
+      {
+        "distrito": "10",
+        "total": "18",
+        "cod": "2",
+        "desc": "Situação urbana - Cidade ou vila - Área não urbanizada"
+      },
+      {
+        "distrito": "10",
+        "total": "13",
+        "cod": "8",
+        "desc": "Situação rural - Área rural"
+      },
+      {
+        "distrito": "12",
+        "total": "31",
+        "cod": "1",
+        "desc": "Situação urbana - Cidade ou vila - Área urbanizada"
+      },
+      {
+        "distrito": "12",
+        "total": "10",
+        "cod": "2",
+        "desc": "Situação urbana - Cidade ou vila - Área não urbanizada"
+      },
+      {
+        "distrito": "12",
+        "total": "5",
+        "cod": "9",
+        "desc": "Massa de água"
+      },
+      {
+        "distrito": "15",
+        "total": "24",
+        "cod": "1",
+        "desc": "Situação urbana - Cidade ou vila - Área urbanizada"
+      },
+      {
+        "distrito": "15",
+        "total": "17",
+        "cod": "2",
+        "desc": "Situação urbana - Cidade ou vila - Área não urbanizada"
+      },
+      {
+        "distrito": "15",
+        "total": "4",
+        "cod": "3",
+        "desc": "Situação urbana - Área urbana isolada"
+      },
+      {
+        "distrito": "15",
+        "total": "18",
+        "cod": "8",
+        "desc": "Situação rural - Área rural"
+      }
+    ]
+  },
+  "repac": {
+    "participantes": [
+      {
+        "nome": "ADRIANA S. DE OLIVEIRA",
+        "cargo": "PRESIDENTE",
+        "entidade": "SINDICATO DOS TRABALHADORES RURAIS",
+        "observador": false
+      },
+      {
+        "nome": "ANA PAULA RODRIGUES DE SOUZA",
+        "cargo": "ASSESSORA TÉCNICA",
+        "entidade": "SECRETARIA DE AMBIENTE, AGRICULTURA, ABASTECIMENTO E PESCA",
+        "observador": false
+      },
+      {
+        "nome": "CLÁUDIO LEÃO BARRETO",
+        "cargo": "SECRETÁRIO",
+        "entidade": "SECRETARIA DE AMBIENTE, AGRICULTURA, ABASTECIMENTO E PESCA",
+        "observador": false
+      },
+      {
+        "nome": "Eduardo da Silva",
+        "cargo": "Coordenador Nacional de Assuntos Aleatórios",
+        "entidade": "EMATEste",
+        "observador": false
+      },
+      {
+        "nome": "EVERTON DE OLIVEIRA LESSA ",
+        "cargo": "SUPERVISOR LOCAL",
+        "entidade": "EMATER/RJ",
+        "observador": false
+      },
+      {
+        "nome": "IZAÍAS PEREIRA DE ANDRADE",
+        "cargo": "SUPERINTENDENTE DE AMBIENTE",
+        "entidade": "SECRETARIA DE AMBIENTE, AGRICULTURA, ABASTECIMENTO E PESCA",
+        "observador": false
+      },
+      {
+        "nome": "LUCIA DE SOUZA",
+        "cargo": "ANALISTA",
+        "entidade": "EMATER",
+        "observador": false
+      },
+      {
+        "nome": "Luciana",
+        "cargo": "Coordenador Nacional de CMGE",
+        "entidade": "IBGEteste",
+        "observador": false
+      },
+      {
+        "nome": "LUCIANO VIEIRA CALHEIA",
+        "cargo": "TÉCNICO AGROPECUÁRIO",
+        "entidade": "SECRETARIA DE AMBIENTE, AGRICULTURA, ABASTECIMENTO E PESCA",
+        "observador": false
+      },
+      {
+        "nome": "LUIZ CLAUDIO PORTO DO NASCIMENTO",
+        "cargo": "SSP",
+        "entidade": "PREFEITURA MUNICIPAL DE ARARUAMA",
+        "observador": false
+      },
+      {
+        "nome": "MARLY DA SILVA GONÇALVES",
+        "cargo": "OFICIAL ADMINISTRATIVO",
+        "entidade": "CÂMARA MUNICIPAL DE ARAUAMA",
+        "observador": false
+      }
+    ],
+    "info": {
+      "data": "2020-02-28 10:00:00",
+      "cod_subarea": "3300209200",
+      "siape_presidente": "1519618",
+      "local": "Prefeitura de Araruama",
+      "tipo": "segunda"
+    }
+  },
+  "postos": {
+    "vagas": [
+      {
+        "cod_sapc": "33002093000",
+        "nome": "ARARUAMA 1",
+        "qtd_rec": "0",
+        "qtd_acm": null,
+        "qtd_acs_tec": "0",
+        "qtd_acs_adm_inf": "0",
+        "sede": "0"
+      },
+      {
+        "cod_sapc": "33002093001",
+        "nome": "ARARUAMA 2",
+        "qtd_rec": "0",
+        "qtd_acm": null,
+        "qtd_acs_tec": "0",
+        "qtd_acs_adm_inf": "0",
+        "sede": "0"
+      }
+    ]
+  },
+  "info": {
+    "cod_mun": "3300209",
+    "nome_mun": "ARARUAMA",
+    "cod_agencia": "330070400",
+    "nome_agencia": "CABO FRIO",
+    "data": "2020-10-06 10:22:28",
+    "fonte": [
+      "SIDRA/IBGE",
+      "BDO/COC/IBGE"
+    ]
   }
 }
