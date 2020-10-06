@@ -70,20 +70,6 @@
     "dif": 5245,
     "tendencia": "descer"
   },
-  "censos": {
-    "pop_residente": {
-      "2000": {
-        "Total": "82803",
-        "Homens": "40828",
-        "Mulheres": "41975"
-      },
-      "2010": {
-        "Total": "112008",
-        "Homens": "54283",
-        "Mulheres": "57725"
-      }
-    }
-  },
   "setores": {
     "tipo": [
       {
@@ -279,105 +265,6 @@
         "total": "18",
         "cod": "8",
         "desc": "Situação rural - Área rural"
-      }
-    ]
-  },
-  "repac": {
-    "participantes": [
-      {
-        "nome": "ADRIANA S. DE OLIVEIRA",
-        "cargo": "PRESIDENTE",
-        "entidade": "SINDICATO DOS TRABALHADORES RURAIS",
-        "observador": false
-      },
-      {
-        "nome": "ANA PAULA RODRIGUES DE SOUZA",
-        "cargo": "ASSESSORA TÉCNICA",
-        "entidade": "SECRETARIA DE AMBIENTE, AGRICULTURA, ABASTECIMENTO E PESCA",
-        "observador": false
-      },
-      {
-        "nome": "CLÁUDIO LEÃO BARRETO",
-        "cargo": "SECRETÁRIO",
-        "entidade": "SECRETARIA DE AMBIENTE, AGRICULTURA, ABASTECIMENTO E PESCA",
-        "observador": false
-      },
-      {
-        "nome": "Eduardo da Silva",
-        "cargo": "Coordenador Nacional de Assuntos Aleatórios",
-        "entidade": "EMATEste",
-        "observador": false
-      },
-      {
-        "nome": "EVERTON DE OLIVEIRA LESSA ",
-        "cargo": "SUPERVISOR LOCAL",
-        "entidade": "EMATER/RJ",
-        "observador": false
-      },
-      {
-        "nome": "IZAÍAS PEREIRA DE ANDRADE",
-        "cargo": "SUPERINTENDENTE DE AMBIENTE",
-        "entidade": "SECRETARIA DE AMBIENTE, AGRICULTURA, ABASTECIMENTO E PESCA",
-        "observador": false
-      },
-      {
-        "nome": "LUCIA DE SOUZA",
-        "cargo": "ANALISTA",
-        "entidade": "EMATER",
-        "observador": false
-      },
-      {
-        "nome": "Luciana",
-        "cargo": "Coordenador Nacional de CMGE",
-        "entidade": "IBGEteste",
-        "observador": false
-      },
-      {
-        "nome": "LUCIANO VIEIRA CALHEIA",
-        "cargo": "TÉCNICO AGROPECUÁRIO",
-        "entidade": "SECRETARIA DE AMBIENTE, AGRICULTURA, ABASTECIMENTO E PESCA",
-        "observador": false
-      },
-      {
-        "nome": "LUIZ CLAUDIO PORTO DO NASCIMENTO",
-        "cargo": "SSP",
-        "entidade": "PREFEITURA MUNICIPAL DE ARARUAMA",
-        "observador": false
-      },
-      {
-        "nome": "MARLY DA SILVA GONÇALVES",
-        "cargo": "OFICIAL ADMINISTRATIVO",
-        "entidade": "CÂMARA MUNICIPAL DE ARAUAMA",
-        "observador": false
-      }
-    ],
-    "info": {
-      "data": "2020-02-28 10:00:00",
-      "cod_subarea": "3300209200",
-      "siape_presidente": "1519618",
-      "local": "Prefeitura de Araruama",
-      "tipo": "segunda"
-    }
-  },
-  "postos": {
-    "vagas": [
-      {
-        "cod_sapc": "33002093000",
-        "nome": "ARARUAMA 1",
-        "qtd_rec": "0",
-        "qtd_acm": null,
-        "qtd_acs_tec": "0",
-        "qtd_acs_adm_inf": "0",
-        "sede": "0"
-      },
-      {
-        "cod_sapc": "33002093001",
-        "nome": "ARARUAMA 2",
-        "qtd_rec": "0",
-        "qtd_acm": null,
-        "qtd_acs_tec": "0",
-        "qtd_acs_adm_inf": "0",
-        "sede": "0"
       }
     ]
   },
