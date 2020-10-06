@@ -158,7 +158,6 @@
       "BDO/COC/IBGE"
     ]
   },
-  
   "info2": {
     "cod_mun": "3300209",
     "nome_mun": "ARARUAMA",
@@ -169,5 +168,5 @@
       "SIDRA/IBGE",
       "BDO/COC/IBGE"
     ]
-  },
+  }
 }
