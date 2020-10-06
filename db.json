@@ -170,16 +170,4 @@
       "BDO/COC/IBGE"
     ]
   },
-  
-  "info3": {
-    "cod_mun": "3300209",
-    "nome_mun": "ARARUAMA",
-    "cod_agencia": "330070400",
-    "nome_agencia": "CABO FRIO",
-    "data": "2020-10-06 10:22:28",
-    "fonte": [
-      "SIDRA/IBGE",
-      "BDO/COC/IBGE"
-    ]
-  }
 }
