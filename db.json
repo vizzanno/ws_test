@@ -269,7 +269,6 @@
     ]
   },
 "repac":{
-        {
             "participantes":[
                 {"nome":"ADRIANA S. DE OLIVEIRA","cargo":"PRESIDENTE","entidade":"SINDICATO DOS TRABALHADORES RURAIS","email":"drica.76@live.com,","telefone":"(22) 99941-8775,","observador":false},
                 {"nome":"ANA PAULA RODRIGUES DE SOUZA","cargo":"ASSESSORA TÉCNICA","entidade":"SECRETARIA DE AMBIENTE, AGRICULTURA, ABASTECIMENTO E PESCA","email":"arqanapaula_5@hotmail.com,","telefone":"(22) 99908-9851,","observador":false},
@@ -291,8 +290,7 @@
                 "tipo":"primeira",
                 "complemento":"teste teste",
                 "status":"realizada"
-            }
-        },      
+            }  
   },
   "info": {
     "cod_mun": "3300209",
