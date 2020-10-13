@@ -268,82 +268,47 @@
       }
     ]
   },
-  "repac": {
-    "participantes": [
-      {
-        "nome": "ADRIANA S. DE OLIVEIRA",
-        "cargo": "PRESIDENTE",
-        "entidade": "SINDICATO DOS TRABALHADORES RURAIS",
-        "observador": false
-      },
-      {
-        "nome": "ANA PAULA RODRIGUES DE SOUZA",
-        "cargo": "ASSESSORA TÉCNICA",
-        "entidade": "SECRETARIA DE AMBIENTE, AGRICULTURA, ABASTECIMENTO E PESCA",
-        "observador": false
-      },
-      {
-        "nome": "CLÁUDIO LEÃO BARRETO",
-        "cargo": "SECRETÁRIO",
-        "entidade": "SECRETARIA DE AMBIENTE, AGRICULTURA, ABASTECIMENTO E PESCA",
-        "observador": false
-      },
-      {
-        "nome": "Eduardo da Silva",
-        "cargo": "Coordenador Nacional de Assuntos Aleatórios",
-        "entidade": "EMATEste",
-        "observador": false
-      },
-      {
-        "nome": "EVERTON DE OLIVEIRA LESSA ",
-        "cargo": "SUPERVISOR LOCAL",
-        "entidade": "EMATER/RJ",
-        "observador": false
-      },
-      {
-        "nome": "IZAÍAS PEREIRA DE ANDRADE",
-        "cargo": "SUPERINTENDENTE DE AMBIENTE",
-        "entidade": "SECRETARIA DE AMBIENTE, AGRICULTURA, ABASTECIMENTO E PESCA",
-        "observador": false
-      },
-      {
-        "nome": "LUCIA DE SOUZA",
-        "cargo": "ANALISTA",
-        "entidade": "EMATER",
-        "observador": false
-      },
-      {
-        "nome": "Luciana",
-        "cargo": "Coordenador Nacional de CMGE",
-        "entidade": "IBGEteste",
-        "observador": false
-      },
-      {
-        "nome": "LUCIANO VIEIRA CALHEIA",
-        "cargo": "TÉCNICO AGROPECUÁRIO",
-        "entidade": "SECRETARIA DE AMBIENTE, AGRICULTURA, ABASTECIMENTO E PESCA",
-        "observador": false
-      },
-      {
-        "nome": "LUIZ CLAUDIO PORTO DO NASCIMENTO",
-        "cargo": "SSP",
-        "entidade": "PREFEITURA MUNICIPAL DE ARARUAMA",
-        "observador": false
-      },
-      {
-        "nome": "MARLY DA SILVA GONÇALVES",
-        "cargo": "OFICIAL ADMINISTRATIVO",
-        "entidade": "CÂMARA MUNICIPAL DE ARAUAMA",
-        "observador": false
-      }
-    ],
-    "info": {
-      "data": "2020-02-28 10:00:00",
-      "cod_subarea": "3300209200",
-      "siape_presidente": "1519618",
-      "local": "Prefeitura de Araruama",
-      "tipo": "segunda"
-    }
+	"repac":{
+        {
+            "participantes":[
+                {"nome":"ADRIANA S. DE OLIVEIRA","cargo":"PRESIDENTE","entidade":"SINDICATO DOS TRABALHADORES RURAIS","email":"drica.76@live.com,","telefone":"(22) 99941-8775,","observador":false},
+                {"nome":"ANA PAULA RODRIGUES DE SOUZA","cargo":"ASSESSORA TÉCNICA","entidade":"SECRETARIA DE AMBIENTE, AGRICULTURA, ABASTECIMENTO E PESCA","email":"arqanapaula_5@hotmail.com,","telefone":"(22) 99908-9851,","observador":false},
+                {"nome":"CLÁUDIO LEÃO BARRETO","cargo":"SECRETÁRIO","entidade":"SECRETARIA DE AMBIENTE, AGRICULTURA, ABASTECIMENTO E PESCA","email":"claudio.frutificar@gmail.com,","telefone":"(22) 99949-5843,","observador":false},
+                {"nome":"Eduardo da Silva","cargo":"Coordenador Nacional de Assuntos Aleatórios","entidade":"EMATEste","email":"rodrigo.cotrim@ibge.gov.br,claudia.amorim@ibge.gov.br","telefone":"(21) 2142-3521,","observador":false},
+                {"nome":"EVERTON DE OLIVEIRA LESSA ","cargo":"SUPERVISOR LOCAL","entidade":"EMATER/RJ","email":"eslocar.emater@gmail.com,","telefone":"(22) 2665-5933,(22) 99911-3059","observador":false},
+                {"nome":"IZAÍAS PEREIRA DE ANDRADE","cargo":"SUPERINTENDENTE DE AMBIENTE","entidade":"SECRETARIA DE AMBIENTE, AGRICULTURA, ABASTECIMENTO E PESCA","email":"ip48andrade@yahoo.com.br,","telefone":"(22) 98108-8754,","observador":false},
+                {"nome":"LUCIA DE SOUZA","cargo":"ANALISTA","entidade":"EMATER","email":"claudia.amorim@ibge.gov.br,","telefone":"(21) 99999-9999,","observador":false},
+                {"nome":"Luciana","cargo":"Coordenador Nacional de CMGE","entidade":"IBGEteste","email":"luciana.prazeres@ibge.gov.br,","telefone":"(21) 2142-4745,","observador":false},
+                {"nome":"LUCIANO VIEIRA CALHEIA","cargo":"TÉCNICO AGROPECUÁRIO","entidade":"SECRETARIA DE AMBIENTE, AGRICULTURA, ABASTECIMENTO E PESCA","email":"seagrararuama@gmail.com,","telefone":"(22) 99922-4506,","observador":false},
+                {"nome":"LUIZ CLAUDIO PORTO DO NASCIMENTO","cargo":"SSP","entidade":"PREFEITURA MUNICIPAL DE ARARUAMA","email":"claudioararuamarj@gmail.com,","telefone":"(22) 98828-6972,(22) 2664-2057","observador":false},
+                {"nome":"MARLY DA SILVA GONÇALVES","cargo":"OFICIAL ADMINISTRATIVO","entidade":"CÂMARA MUNICIPAL DE ARAUAMA","email":"marlymeg@yahoo.com.br,","telefone":"(22) 99795-8133,(22) 99816-1025","observador":false}
+            ],
+            "info":{
+                "data":"2020-03-01 10:00:00",
+                "cod_subarea":"3300209200",
+                "siape_presidente":"2340306",
+                "local":"Prefeitura de Araruama",
+                "tipo":"primeira",
+                "complemento":"teste teste",
+                "status":"realizada"
+            }
+        },
+        {
+            "participantes":[
+                {"nome":"ADRIANA S. DE OLIVEIRA","cargo":"PRESIDENTE","entidade":"SINDICATO DOS TRABALHADORES RURAIS","email":"drica.76@live.com,","telefone":"(22) 99941-8775,","observador":false},
+                {"nome":"ANA PAULA RODRIGUES DE SOUZA","cargo":"ASSESSORA TÉCNICA","entidade":"SECRETARIA DE AMBIENTE, AGRICULTURA, ABASTECIMENTO E PESCA","email":"arqanapaula_5@hotmail.com,","telefone":"(22) 99908-9851,","observador":false},
+                {"nome":"CLÁUDIO LEÃO BARRETO","cargo":"SECRETÁRIO","entidade":"SECRETARIA DE AMBIENTE, AGRICULTURA, ABASTECIMENTO E PESCA","email":"claudio.frutificar@gmail.com,","telefone":"(22) 99949-5843,","observador":false},
+                {"nome":"Eduardo da Silva","cargo":"Coordenador Nacional de Assuntos Aleatórios","entidade":"EMATEste","email":"rodrigo.cotrim@ibge.gov.br,claudia.amorim@ibge.gov.br","telefone":"(21) 2142-3521,","observador":false},
+                {"nome":"EVERTON DE OLIVEIRA LESSA ","cargo":"SUPERVISOR LOCAL","entidade":"EMATER/RJ","email":"eslocar.emater@gmail.com,","telefone":"(22) 2665-5933,(22) 99911-3059","observador":false},
+                {"nome":"IZAÍAS PEREIRA DE ANDRADE","cargo":"SUPERINTENDENTE DE AMBIENTE","entidade":"SECRETARIA DE AMBIENTE, AGRICULTURA, ABASTECIMENTO E PESCA","email":"ip48andrade@yahoo.com.br,","telefone":"(22) 98108-8754,","observador":false},
+                {"nome":"LUCIA DE SOUZA","cargo":"ANALISTA","entidade":"EMATER","email":"claudia.amorim@ibge.gov.br,","telefone":"(21) 99999-9999,","observador":false},
+                {"nome":"Luciana","cargo":"Coordenador Nacional de CMGE","entidade":"IBGEteste","email":"luciana.prazeres@ibge.gov.br,","telefone":"(21) 2142-4745,","observador":false},
+                {"nome":"LUCIANO VIEIRA CALHEIA","cargo":"TÉCNICO AGROPECUÁRIO","entidade":"SECRETARIA DE AMBIENTE, AGRICULTURA, ABASTECIMENTO E PESCA","email":"seagrararuama@gmail.com,","telefone":"(22) 99922-4506,","observador":false},
+                {"nome":"LUIZ CLAUDIO PORTO DO NASCIMENTO","cargo":"SSP","entidade":"PREFEITURA MUNICIPAL DE ARARUAMA","email":"claudioararuamarj@gmail.com,","telefone":"(22) 98828-6972,(22) 2664-2057","observador":false},
+                {"nome":"MARLY DA SILVA GONÇALVES","cargo":"OFICIAL ADMINISTRATIVO","entidade":"CÂMARA MUNICIPAL DE ARAUAMA","email":"marlymeg@yahoo.com.br,","telefone":"(22) 99795-8133,(22) 99816-1025","observador":false}
+            ],
+            "info":{"data":"2020-02-28 10:00:00","cod_subarea":"3300209200","siape_presidente":"1519618","local":"Prefeitura de Araruama","tipo":"segunda","complemento":"","status":"realizada"}
+        }        
   },
   "info": {
     "cod_mun": "3300209",
