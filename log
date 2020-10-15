@@ -1,0 +1,395 @@
+2020-10-15 17:22:04.034 1635-1645/? W/AlarmManagerService: Unable to set rtc to 1602793324: No such device
+2020-10-15 17:22:04.228 1635-1943/? D/AlarmManagerService: Kernel timezone updated to 0 minutes west of GMT
+2020-10-15 17:22:06.359 1635-1635/? D/ConditionProviders.SCP: onReceive android.intent.action.TIME_SET
+2020-10-15 17:22:06.372 1635-2166/? D/AlarmManagerService: Setting time of day to sec=1602793327
+2020-10-15 17:22:07.113 1635-2166/? W/AlarmManagerService: Unable to set rtc to 1602793327: No such device
+2020-10-15 17:22:07.626 1635-1656/? W/ProcessCpuTracker: Skipping unknown process pid 9585
+2020-10-15 17:22:07.990 1635-1635/? D/ConditionProviders.SCP: notifyCondition condition://android/schedule?days=6.7&start=23.30&end=10.0&exitAtAlarm=false STATE_FALSE reason=!meetsSchedule
+2020-10-15 17:22:08.237 1635-1635/? D/ConditionProviders.SCP: notifyCondition condition://android/schedule?days=1.2.3.4.5&start=22.0&end=7.0&exitAtAlarm=false STATE_FALSE reason=!meetsSchedule
+2020-10-15 17:22:08.316 1635-1635/? D/ConditionProviders.SCP: Scheduling evaluate for Thu Oct 15 22:00:00 GMT+00:00 2020 (1602799200000), in +1h37m52s786ms, now=Thu Oct 15 20:22:07 GMT+00:00 2020 (1602793327214)
+2020-10-15 17:22:08.545 1635-1635/? D/ConditionProviders.SCP: onReceive android.intent.action.TIME_SET
+2020-10-15 17:22:08.549 1635-1635/? D/ConditionProviders.SCP: notifyCondition condition://android/schedule?days=6.7&start=23.30&end=10.0&exitAtAlarm=false STATE_FALSE reason=!meetsSchedule
+2020-10-15 17:22:08.549 1635-1635/? D/ConditionProviders.SCP: notifyCondition condition://android/schedule?days=1.2.3.4.5&start=22.0&end=7.0&exitAtAlarm=false STATE_FALSE reason=!meetsSchedule
+2020-10-15 17:22:08.563 1635-1635/? D/ConditionProviders.SCP: Scheduling evaluate for Thu Oct 15 22:00:00 GMT+00:00 2020 (1602799200000), in +1h37m51s455ms, now=Thu Oct 15 20:22:08 GMT+00:00 2020 (1602793328545)
+2020-10-15 17:22:08.621 1635-1689/? W/ActivityManager: Slow operation: 53ms so far, now at getContentProviderImpl: after getProviderByClass
+2020-10-15 17:22:08.622 1635-1689/? W/ActivityManager: Slow operation: 55ms so far, now at getContentProviderImpl: before getApplicationInfo
+2020-10-15 17:22:08.627 1635-1689/? W/ActivityManager: Slow operation: 60ms so far, now at getContentProviderImpl: after getApplicationInfo
+2020-10-15 17:22:08.647 1635-1689/? W/ActivityManager: Slow operation: 62ms so far, now at getContentProviderImpl: now have ContentProviderRecord
+2020-10-15 17:22:08.647 1635-1689/? W/ActivityManager: Slow operation: 80ms so far, now at getContentProviderImpl: before set stopped state
+2020-10-15 17:22:08.647 1635-1689/? W/ActivityManager: Slow operation: 80ms so far, now at getContentProviderImpl: after set stopped state
+2020-10-15 17:22:08.661 1635-1689/? W/ActivityManager: Slow operation: 80ms so far, now at getContentProviderImpl: looking for process record
+2020-10-15 17:22:08.663 1635-1689/? W/ActivityManager: Slow operation: 94ms so far, now at getContentProviderImpl: before start process
+2020-10-15 17:22:08.795 1635-1689/? W/ActivityManager: Slow operation: 84ms so far, now at startProcess: building args
+2020-10-15 17:22:08.796 1635-1689/? W/ActivityManager: Slow operation: 84ms so far, now at startProcess: asking zygote to start proc
+2020-10-15 17:22:10.079 6126-6126/? I/AlarmClock: AlarmInitReceiver android.intent.action.TIME_SET
+2020-10-15 17:22:10.342 1635-1689/? W/ActivityManager: Slow operation: 1630ms so far, now at startProcess: returned from zygote!
+2020-10-15 17:22:10.404 1635-1689/? W/ActivityManager: Slow operation: 1693ms so far, now at startProcess: done updating battery stats
+2020-10-15 17:22:10.422 9599-9599/? W/art: Unexpected CPU variant for X86 using defaults: x86
+2020-10-15 17:22:10.433 1635-1689/? W/ActivityManager: Slow operation: 1722ms so far, now at startProcess: building log message
+2020-10-15 17:22:10.436 1635-1689/? I/ActivityManager: Start proc 9599:com.android.providers.calendar/u0a2 for content provider com.android.providers.calendar/.CalendarProvider2
+2020-10-15 17:22:10.436 1635-1689/? W/ActivityManager: Slow operation: 1725ms so far, now at startProcess: starting to update pids map
+2020-10-15 17:22:10.436 1635-1689/? W/ActivityManager: Slow operation: 1725ms so far, now at startProcess: done updating pids map
+2020-10-15 17:22:10.436 1635-1689/? W/ActivityManager: Slow operation: 1773ms so far, now at startProcess: done starting proc!
+2020-10-15 17:22:10.436 1635-1689/? W/ActivityManager: Slow operation: 1869ms so far, now at getContentProviderImpl: after start process
+2020-10-15 17:22:10.442 1635-1689/? W/ActivityManager: Slow operation: 1875ms so far, now at getContentProviderImpl: updating data structures
+2020-10-15 17:22:10.448 1635-1689/? W/ActivityManager: Slow operation: 1881ms so far, now at getContentProviderImpl: done!
+2020-10-15 17:22:10.876 1713-1713/? I/Choreographer: Skipped 76 frames!  The application may be doing too much work on its main thread.
+2020-10-15 17:22:11.710 1635-1647/? I/UsageStatsService: Time changed in UsageStats by 16865 seconds
+2020-10-15 17:22:11.714 1635-1647/? I/UsageStatsService: User[0] Flushing usage stats to disk
+2020-10-15 17:22:12.358 1635-1943/? W/ActivityManager: Slow operation: 563ms so far, now at startProcess: returned from zygote!
+2020-10-15 17:22:12.358 1635-1943/? W/ActivityManager: Slow operation: 563ms so far, now at startProcess: done updating battery stats
+2020-10-15 17:22:12.358 1635-1943/? W/ActivityManager: Slow operation: 563ms so far, now at startProcess: building log message
+2020-10-15 17:22:12.358 1635-1943/? I/ActivityManager: Start proc 9617:com.google.android.calendar/u0a33 for broadcast com.google.android.calendar/com.android.calendar.widget.CalendarAppWidgetProvider
+2020-10-15 17:22:12.358 1635-1943/? W/ActivityManager: Slow operation: 563ms so far, now at startProcess: starting to update pids map
+2020-10-15 17:22:12.358 1635-1943/? W/ActivityManager: Slow operation: 564ms so far, now at startProcess: done updating pids map
+2020-10-15 17:22:12.360 1635-1943/? W/ActivityManager: Slow operation: 565ms so far, now at startProcess: done starting proc!
+2020-10-15 17:22:12.370 1635-1653/? E/NetdConnector: NDC event {613 IfaceClass idle 0 9033090693600} took too long: 559ms
+2020-10-15 17:22:12.461 9617-9617/? W/art: Unexpected CPU variant for X86 using defaults: x86
+2020-10-15 17:22:12.518 1635-1647/? I/UsageStatsDatabase: Time changed by +4h41m5s703ms. files deleted: 0 files moved: 4
+2020-10-15 17:22:13.162 1635-1647/? I/UsageStatsService: User[0] Rollover scheduled @ 2020-10-16 15:11:36(1602861096686)
+2020-10-15 17:22:13.324 9622-9622/? E/studio.deploy: Could not get package user id: run-as: Package 'io.ionic.starter' is unknown
+2020-10-15 17:22:14.073 9622-9622/? E/studio.deploy: Could not find apks for package: io.ionic.starter
+2020-10-15 17:22:14.241 9599-9599/? W/System: ClassLoader referenced unknown path: /system/priv-app/CalendarProvider/lib/x86
+2020-10-15 17:22:14.370 9613-9613/? D/AndroidRuntime: >>>>>> START com.android.internal.os.RuntimeInit uid 2000 <<<<<<
+2020-10-15 17:22:14.371 9589-9589/? D/AndroidRuntime: >>>>>> START com.android.internal.os.RuntimeInit uid 2000 <<<<<<
+2020-10-15 17:22:14.454 1635-1644/? I/art: Background sticky concurrent mark sweep GC freed 34736(2MB) AllocSpace objects, 54(1140KB) LOS objects, 21% free, 12MB/16MB, paused 7.589ms total 1.436s
+2020-10-15 17:22:14.556 9613-9613/? D/AndroidRuntime: CheckJNI is ON
+2020-10-15 17:22:14.556 9589-9589/? D/AndroidRuntime: CheckJNI is ON
+2020-10-15 17:22:14.764 9617-9617/? W/System: ClassLoader referenced unknown path: /system/app/CalendarGooglePrebuilt/lib/x86
+2020-10-15 17:22:15.129 9613-9613/? W/art: Unexpected CPU variant for X86 using defaults: x86
+2020-10-15 17:22:15.551 9613-9613/? D/ICU: No timezone override file found: /data/misc/zoneinfo/current/icu/icu_tzdata.dat
+2020-10-15 17:22:15.552 9599-9599/? I/CalendarProvider2: Created com.android.providers.calendar.CalendarAlarmManager@9c6412d(com.android.providers.calendar.CalendarProvider2@713a662)
+2020-10-15 17:22:16.419 9613-9613/? E/memtrack: Couldn't load memtrack module (No such file or directory)
+2020-10-15 17:22:16.419 9613-9613/? E/android.os.Debug: failed to load memtrack module: -2
+2020-10-15 17:22:16.475 9613-9613/? I/Radio-JNI: register_android_hardware_Radio DONE
+2020-10-15 17:22:16.670 1635-1660/? I/PackageManager.DexOptimizer: Running dexopt (dex2oat) on: /data/app/vmdl102331844.tmp/base.apk pkg=io.ionic.starter isa=x86 vmSafeMode=false debuggable=true target-filter=interpret-only oatDir = /data/app/vmdl102331844.tmp/oat sharedLibraries=null
+2020-10-15 17:22:16.818 9660-9660/? W/dex2oat: Unexpected CPU variant for X86 using defaults: x86
+2020-10-15 17:22:16.825 9660-9660/? W/dex2oat: Mismatch between dex2oat instruction set features (ISA: X86 Feature string: smp,-ssse3,-sse4.1,-sse4.2,-avx,-avx2,-lock_add,-popcnt) and those of dex2oat executable (ISA: X86 Feature string: smp,ssse3,-sse4.1,-sse4.2,-avx,-avx2,-lock_add,-popcnt) for the command line:
+2020-10-15 17:22:16.825 9660-9660/? W/dex2oat: /system/bin/dex2oat --zip-fd=6 --zip-location=base.apk --oat-fd=7 --oat-location=/data/app/vmdl102331844.tmp/oat/x86/base.odex --instruction-set=x86 --instruction-set-variant=x86 --instruction-set-features=default --runtime-arg -Xms64m --runtime-arg -Xmx512m --compiler-filter=interpret-only --swap-fd=9 --debuggable
+2020-10-15 17:22:16.830 9660-9660/? I/dex2oat: /system/bin/dex2oat --compiler-filter=interpret-only --debuggable
+2020-10-15 17:22:16.863 9613-9613/? D/AndroidRuntime: Calling main entry com.android.commands.wm.Wm
+2020-10-15 17:22:16.911 9599-9599/? I/CalendarProvider2: Sending notification intent: Intent { act=android.intent.action.PROVIDER_CHANGED dat=content://com.android.calendar flg=0x20000000 }
+2020-10-15 17:22:16.916 9599-9599/? W/ContentResolver: Failed to get type for: content://com.android.calendar (Unknown URL content://com.android.calendar)
+2020-10-15 17:22:16.925 9613-9613/? D/AndroidRuntime: Shutting down VM
+2020-10-15 17:22:17.500 1635-1930/? W/ActivityManager: Unable to start service Intent { act=com.google.android.gms.playlog.service.START pkg=com.google.android.gms } U=0: not found
+2020-10-15 17:22:17.502 1635-2296/? W/ActivityManager: Unbind failed: could not find connection for android.os.BinderProxy@5c30c8
+2020-10-15 17:22:17.502 9617-9617/? E/GmsClient: unable to connect to service: com.google.android.gms.playlog.service.START
+2020-10-15 17:22:17.571 9617-9617/? E/TimelyPrefService: Primary account is null
+2020-10-15 17:22:17.725 9660-9675/? W/dex2oat: Before Android 4.1, method int androidx.appcompat.widget.DropDownListView.lookForSelectablePosition(int, boolean) would have incorrectly overridden the package-private method in android.widget.ListView
+2020-10-15 17:22:17.766 9617-9617/? W/AnalyticsLogBase: PlayLogger.onLoggerFailedConnection
+2020-10-15 17:22:17.997 9660-9675/? W/dex2oat: Before Android 4.1, method int androidx.appcompat.widget.MenuPopupWindow$MenuDropDownListView.lookForSelectablePosition(int, boolean) would have incorrectly overridden the package-private method in android.widget.ListView
+2020-10-15 17:22:18.142 9660-9676/? W/dex2oat: Before Android 4.1, method android.graphics.PorterDuffColorFilter androidx.vectordrawable.graphics.drawable.VectorDrawableCompat.updateTintFilter(android.graphics.PorterDuffColorFilter, android.content.res.ColorStateList, android.graphics.PorterDuff$Mode) would have incorrectly overridden the package-private method in android.graphics.drawable.Drawable
+2020-10-15 17:22:18.757 6126-6126/? I/AlarmClock: AlarmInitReceiver android.intent.action.TIME_SET
+2020-10-15 17:22:19.254 2314-9683/? I/IcingInternalCorpora: Received calendar change notification.
+2020-10-15 17:22:20.141 9660-9660/? I/dex2oat: dex2oat took 3.341s (threads: 4) arena alloc=4KB (4904B) java alloc=4MB (5125704B) native alloc=6MB (7216640B) free=3MB (3269120B)
+2020-10-15 17:22:20.303 1635-1660/? V/BackupManagerService: restoreAtInstall pkg=io.ionic.starter token=a restoreSet=0
+2020-10-15 17:22:20.304 1635-1660/? V/BackupManagerService: Finishing install immediately
+2020-10-15 17:22:20.319 1635-1660/? I/art: Starting a blocking GC Explicit
+2020-10-15 17:22:20.533 2314-3733/? I/IcingInternalCorpora: EventIndexer: starting incremental update
+2020-10-15 17:22:20.539 2314-3733/? I/IcingInternalCorpora: EventIndexer: 0 added, 0 removed, 0 changed, 0 unchanged, 0 errors.
+2020-10-15 17:22:20.552 2314-3733/? I/IcingInternalCorpora: EventIndexer: finished after 27 ms.
+2020-10-15 17:22:20.692 1635-1660/? I/art: Explicit concurrent mark sweep GC freed 35964(2MB) AllocSpace objects, 16(416KB) LOS objects, 23% free, 12MB/16MB, paused 578us total 373.009ms
+2020-10-15 17:22:20.696 1635-1729/? I/System.out: Success
+2020-10-15 17:22:20.974 1809-1809/? D/CarrierSvcBindHelper: No carrier app for: 0
+2020-10-15 17:22:20.980 1809-1809/? D/CarrierConfigLoader: mHandler: 9 phoneId: 0
+2020-10-15 17:22:20.986 9688-9688/? D/AndroidRuntime: >>>>>> START com.android.internal.os.RuntimeInit uid 2000 <<<<<<
+2020-10-15 17:22:20.987 9688-9688/? D/AndroidRuntime: CheckJNI is ON
+2020-10-15 17:22:21.039 9688-9688/? W/art: Unexpected CPU variant for X86 using defaults: x86
+2020-10-15 17:22:21.043 9688-9688/? D/ICU: No timezone override file found: /data/misc/zoneinfo/current/icu/icu_tzdata.dat
+2020-10-15 17:22:21.097 1635-1668/? I/InputReader: Reconfiguring input devices.  changes=0x00000010
+2020-10-15 17:22:21.149 9688-9688/? E/memtrack: Couldn't load memtrack module (No such file or directory)
+2020-10-15 17:22:21.149 9688-9688/? E/android.os.Debug: failed to load memtrack module: -2
+2020-10-15 17:22:21.150 9688-9688/? I/Radio-JNI: register_android_hardware_Radio DONE
+2020-10-15 17:22:21.156 9688-9688/? D/AndroidRuntime: Calling main entry com.android.commands.am.Am
+2020-10-15 17:22:21.205 1635-1943/? I/ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=io.ionic.starter/.MainActivity} from uid 2000 on display 0
+2020-10-15 17:22:21.583 9688-9688/? D/AndroidRuntime: Shutting down VM
+2020-10-15 17:22:21.655 1635-1729/? I/ActivityManager: Start proc 9700:io.ionic.starter/u0a85 for activity io.ionic.starter/.MainActivity
+2020-10-15 17:22:21.669 9700-9700/? I/art: Not late-enabling -Xcheck:jni (already on)
+2020-10-15 17:22:21.669 9700-9700/? W/art: Unexpected CPU variant for X86 using defaults: x86
+2020-10-15 17:22:21.788 9700-9700/io.ionic.starter W/System: ClassLoader referenced unknown path: /data/app/io.ionic.starter-1/lib/x86
+2020-10-15 17:22:21.819 9700-9700/io.ionic.starter W/FirebaseApp: Default FirebaseApp failed to initialize because no default options were found. This usually means that com.google.gms:google-services was not applied to your gradle project.
+2020-10-15 17:22:21.819 9700-9700/io.ionic.starter I/FirebaseInitProvider: FirebaseApp initialization unsuccessful
+2020-10-15 17:22:21.863 1346-1924/? D/gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 8294400
+2020-10-15 17:22:22.016 9700-9700/io.ionic.starter W/art: Before Android 4.1, method android.graphics.PorterDuffColorFilter androidx.vectordrawable.graphics.drawable.VectorDrawableCompat.updateTintFilter(android.graphics.PorterDuffColorFilter, android.content.res.ColorStateList, android.graphics.PorterDuff$Mode) would have incorrectly overridden the package-private method in android.graphics.drawable.Drawable
+2020-10-15 17:22:22.069 9700-9700/io.ionic.starter W/ResourceType: Invalid package identifier when getting bag for resource number 0x00000000
+2020-10-15 17:22:21.983 9718-9718/? W/ps: type=1400 audit(0.0:9123): avc: denied { getattr } for path="/proc/1" dev="proc" ino=59 scontext=u:r:untrusted_app:s0:c512,c768 tcontext=u:r:init:s0 tclass=dir permissive=0
+2020-10-15 17:22:21.983 9718-9718/? W/ps: type=1400 audit(0.0:9124): avc: denied { search } for name="1" dev="proc" ino=59 scontext=u:r:untrusted_app:s0:c512,c768 tcontext=u:r:init:s0 tclass=dir permissive=0
+2020-10-15 17:22:21.983 9718-9718/? W/ps: type=1400 audit(0.0:9125): avc: denied { search } for name="1" dev="proc" ino=59 scontext=u:r:untrusted_app:s0:c512,c768 tcontext=u:r:init:s0 tclass=dir permissive=0
+2020-10-15 17:22:22.191 9700-9700/io.ionic.starter I/art: Rejecting re-init on previously-failed class java.lang.Class<androidx.core.view.ViewCompat$2>: java.lang.NoClassDefFoundError: Failed resolution of: Landroid/view/View$OnUnhandledKeyEventListener;
+2020-10-15 17:22:22.191 9700-9700/io.ionic.starter I/art:     at void androidx.core.view.ViewCompat.setOnApplyWindowInsetsListener(android.view.View, androidx.core.view.OnApplyWindowInsetsListener) (ViewCompat.java:2436)
+2020-10-15 17:22:22.191 9700-9700/io.ionic.starter I/art:     at android.view.ViewGroup androidx.appcompat.app.AppCompatDelegateImpl.createSubDecor() (AppCompatDelegateImpl.java:779)
+2020-10-15 17:22:22.191 9700-9700/io.ionic.starter I/art:     at void androidx.appcompat.app.AppCompatDelegateImpl.ensureSubDecor() (AppCompatDelegateImpl.java:659)
+2020-10-15 17:22:22.191 9700-9700/io.ionic.starter I/art:     at void androidx.appcompat.app.AppCompatDelegateImpl.setContentView(int) (AppCompatDelegateImpl.java:552)
+2020-10-15 17:22:22.191 9700-9700/io.ionic.starter I/art:     at void androidx.appcompat.app.AppCompatActivity.setContentView(int) (AppCompatActivity.java:161)
+2020-10-15 17:22:22.191 9700-9700/io.ionic.starter I/art:     at void com.getcapacitor.BridgeActivity.init(android.os.Bundle, java.util.List, org.json.JSONObject) (BridgeActivity.java:60)
+2020-10-15 17:22:22.191 9700-9700/io.ionic.starter I/art:     at void com.getcapacitor.BridgeActivity.init(android.os.Bundle, java.util.List) (BridgeActivity.java:48)
+2020-10-15 17:22:22.191 9700-9700/io.ionic.starter I/art:     at void io.ionic.starter.MainActivity.onCreate(android.os.Bundle) (MainActivity.java:16)
+2020-10-15 17:22:22.191 9700-9700/io.ionic.starter I/art:     at void android.app.Activity.performCreate(android.os.Bundle) (Activity.java:6662)
+2020-10-15 17:22:22.191 9700-9700/io.ionic.starter I/art:     at void android.app.Instrumentation.callActivityOnCreate(android.app.Activity, android.os.Bundle) (Instrumentation.java:1118)
+2020-10-15 17:22:22.191 9700-9700/io.ionic.starter I/art:     at android.app.Activity android.app.ActivityThread.performLaunchActivity(android.app.ActivityThread$ActivityClientRecord, android.content.Intent) (ActivityThread.java:2599)
+2020-10-15 17:22:22.191 9700-9700/io.ionic.starter I/art:     at void android.app.ActivityThread.handleLaunchActivity(android.app.ActivityThread$ActivityClientRecord, android.content.Intent, java.lang.String) (ActivityThread.java:2707)
+2020-10-15 17:22:22.191 9700-9700/io.ionic.starter I/art:     at void android.app.ActivityThread.-wrap12(android.app.ActivityThread, android.app.ActivityThread$ActivityClientRecord, android.content.Intent, java.lang.String) (ActivityThread.java:-1)
+2020-10-15 17:22:22.191 9700-9700/io.ionic.starter I/art:     at void android.app.ActivityThread$H.handleMessage(android.os.Message) (ActivityThread.java:1460)
+2020-10-15 17:22:22.191 9700-9700/io.ionic.starter I/art:     at void android.os.Handler.dispatchMessage(android.os.Message) (Handler.java:102)
+2020-10-15 17:22:22.191 9700-9700/io.ionic.starter I/art:     at void android.os.Looper.loop() (Looper.java:154)
+2020-10-15 17:22:22.191 9700-9700/io.ionic.starter I/art:     at void android.app.ActivityThread.main(java.lang.String[]) (ActivityThread.java:6077)
+2020-10-15 17:22:22.191 9700-9700/io.ionic.starter I/art:     at java.lang.Object java.lang.reflect.Method.invoke!(java.lang.Object, java.lang.Object[]) (Method.java:-2)
+2020-10-15 17:22:22.191 9700-9700/io.ionic.starter I/art:     at void com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run() (ZygoteInit.java:866)
+2020-10-15 17:22:22.191 9700-9700/io.ionic.starter I/art:     at void com.android.internal.os.ZygoteInit.main(java.lang.String[]) (ZygoteInit.java:756)
+2020-10-15 17:22:22.191 9700-9700/io.ionic.starter I/art: Caused by: java.lang.ClassNotFoundException: Didn't find class "android.view.View$OnUnhandledKeyEventListener" on path: DexPathList[[zip file "/data/app/io.ionic.starter-1/base.apk"],nativeLibraryDirectories=[/data/app/io.ionic.starter-1/lib/x86, /system/lib, /vendor/lib]]
+2020-10-15 17:22:22.191 9700-9700/io.ionic.starter I/art:     at java.lang.Class dalvik.system.BaseDexClassLoader.findClass(java.lang.String) (BaseDexClassLoader.java:56)
+2020-10-15 17:22:22.191 9700-9700/io.ionic.starter I/art:     at java.lang.Class java.lang.ClassLoader.loadClass(java.lang.String, boolean) (ClassLoader.java:380)
+2020-10-15 17:22:22.191 9700-9700/io.ionic.starter I/art:     at java.lang.Class java.lang.ClassLoader.loadClass(java.lang.String) (ClassLoader.java:312)
+2020-10-15 17:22:22.191 9700-9700/io.ionic.starter I/art:     at void androidx.core.view.ViewCompat.setOnApplyWindowInsetsListener(android.view.View, androidx.core.view.OnApplyWindowInsetsListener) (ViewCompat.java:2436)
+2020-10-15 17:22:22.191 9700-9700/io.ionic.starter I/art:     at android.view.ViewGroup androidx.appcompat.app.AppCompatDelegateImpl.createSubDecor() (AppCompatDelegateImpl.java:779)
+2020-10-15 17:22:22.191 9700-9700/io.ionic.starter I/art:     at void androidx.appcompat.app.AppCompatDelegateImpl.ensureSubDecor() (AppCompatDelegateImpl.java:659)
+2020-10-15 17:22:22.191 9700-9700/io.ionic.starter I/art:     at void androidx.appcompat.app.AppCompatDelegateImpl.setContentView(int) (AppCompatDelegateImpl.java:552)
+2020-10-15 17:22:22.191 9700-9700/io.ionic.starter I/art:     at void androidx.appcompat.app.AppCompatActivity.setContentView(int) (AppCompatActivity.java:161)
+2020-10-15 17:22:22.191 9700-9700/io.ionic.starter I/art:     at void com.getcapacitor.BridgeActivity.init(android.os.Bundle, java.util.List, org.json.JSONObject) (BridgeActivity.java:60)
+2020-10-15 17:22:22.191 9700-9700/io.ionic.starter I/art:     at void com.getcapacitor.BridgeActivity.init(android.os.Bundle, java.util.List) (BridgeActivity.java:48)
+2020-10-15 17:22:22.191 9700-9700/io.ionic.starter I/art:     at void io.ionic.starter.MainActivity.onCreate(android.os.Bundle) (MainActivity.java:16)
+2020-10-15 17:22:22.191 9700-9700/io.ionic.starter I/art:     at void android.app.Activity.performCreate(android.os.Bundle) (Activity.java:6662)
+2020-10-15 17:22:22.192 9700-9700/io.ionic.starter I/art:     at void android.app.Instrumentation.callActivityOnCreate(android.app.Activity, android.os.Bundle) (Instrumentation.java:1118)
+2020-10-15 17:22:22.192 9700-9700/io.ionic.starter I/art:     at android.app.Activity android.app.ActivityThread.performLaunchActivity(android.app.ActivityThread$ActivityClientRecord, android.content.Intent) (ActivityThread.java:2599)
+2020-10-15 17:22:22.192 9700-9700/io.ionic.starter I/art:     at void android.app.ActivityThread.handleLaunchActivity(android.app.ActivityThread$ActivityClientRecord, android.content.Intent, java.lang.String) (ActivityThread.java:2707)
+2020-10-15 17:22:22.192 9700-9700/io.ionic.starter I/art:     at void android.app.ActivityThread.-wrap12(android.app.ActivityThread, android.app.ActivityThread$ActivityClientRecord, android.content.Intent, java.lang.String) (ActivityThread.java:-1)
+2020-10-15 17:22:22.192 9700-9700/io.ionic.starter I/art:     at void android.app.ActivityThread$H.handleMessage(android.os.Message) (ActivityThread.java:1460)
+2020-10-15 17:22:22.192 9700-9700/io.ionic.starter I/art:     at void android.os.Handler.dispatchMessage(android.os.Message) (Handler.java:102)
+2020-10-15 17:22:22.192 9700-9700/io.ionic.starter I/art:     at void android.os.Looper.loop() (Looper.java:154)
+2020-10-15 17:22:22.192 9700-9700/io.ionic.starter I/art:     at void android.app.ActivityThread.main(java.lang.String[]) (ActivityThread.java:6077)
+2020-10-15 17:22:22.192 9700-9700/io.ionic.starter I/art:     at java.lang.Object java.lang.reflect.Method.invoke!(java.lang.Object, java.lang.Object[]) (Method.java:-2)
+2020-10-15 17:22:22.192 9700-9700/io.ionic.starter I/art:     at void com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run() (ZygoteInit.java:866)
+2020-10-15 17:22:22.192 9700-9700/io.ionic.starter I/art:     at void com.android.internal.os.ZygoteInit.main(java.lang.String[]) (ZygoteInit.java:756)
+2020-10-15 17:22:22.270 9700-9700/io.ionic.starter W/System: ClassLoader referenced unknown path: /system/app/Chrome/lib/x86
+2020-10-15 17:22:22.282 9700-9700/io.ionic.starter I/WebViewFactory: Loading com.android.chrome version 51.0.2704.90 (code 275509012)
+2020-10-15 17:22:21.983 9718-9718/? W/ps: type=1400 audit(0.0:9126): avc: denied { getattr } for path="/proc/2" dev="proc" ino=8424 scontext=u:r:untrusted_app:s0:c512,c768 tcontext=u:r:kernel:s0 tclass=dir permissive=0
+2020-10-15 17:22:21.983 9718-9718/? W/ps: type=1400 audit(0.0:9127): avc: denied { search } for name="2" dev="proc" ino=8424 scontext=u:r:untrusted_app:s0:c512,c768 tcontext=u:r:kernel:s0 tclass=dir permissive=0
+2020-10-15 17:22:21.983 9718-9718/? W/ps: type=1400 audit(0.0:9128): avc: denied { search } for name="2" dev="proc" ino=8424 scontext=u:r:untrusted_app:s0:c512,c768 tcontext=u:r:kernel:s0 tclass=dir permissive=0
+2020-10-15 17:22:21.983 9718-9718/? W/ps: type=1400 audit(0.0:9129): avc: denied { getattr } for path="/proc/3" dev="proc" ino=8425 scontext=u:r:untrusted_app:s0:c512,c768 tcontext=u:r:kernel:s0 tclass=dir permissive=0
+2020-10-15 17:22:21.983 9718-9718/? W/ps: type=1400 audit(0.0:9130): avc: denied { search } for name="3" dev="proc" ino=8425 scontext=u:r:untrusted_app:s0:c512,c768 tcontext=u:r:kernel:s0 tclass=dir permissive=0
+2020-10-15 17:22:21.983 9718-9718/? W/ps: type=1400 audit(0.0:9131): avc: denied { search } for name="3" dev="proc" ino=8425 scontext=u:r:untrusted_app:s0:c512,c768 tcontext=u:r:kernel:s0 tclass=dir permissive=0
+2020-10-15 17:22:21.983 9718-9718/? W/ps: type=1400 audit(0.0:9132): avc: denied { getattr } for path="/proc/5" dev="proc" ino=8427 scontext=u:r:untrusted_app:s0:c512,c768 tcontext=u:r:kernel:s0 tclass=dir permissive=0
+2020-10-15 17:22:21.983 9718-9718/? W/ps: type=1400 audit(0.0:9133): avc: denied { search } for name="5" dev="proc" ino=8427 scontext=u:r:untrusted_app:s0:c512,c768 tcontext=u:r:kernel:s0 tclass=dir permissive=0
+2020-10-15 17:22:21.983 9718-9718/? W/ps: type=1400 audit(0.0:9134): avc: denied { search } for name="5" dev="proc" ino=8427 scontext=u:r:untrusted_app:s0:c512,c768 tcontext=u:r:kernel:s0 tclass=dir permissive=0
+2020-10-15 17:22:21.983 9718-9718/? W/ps: type=1400 audit(0.0:9135): avc: denied { getattr } for path="/proc/7" dev="proc" ino=8429 scontext=u:r:untrusted_app:s0:c512,c768 tcontext=u:r:kernel:s0 tclass=dir permissive=0
+2020-10-15 17:22:21.983 9718-9718/? W/ps: type=1400 audit(0.0:9136): avc: denied { search } for name="7" dev="proc" ino=8429 scontext=u:r:untrusted_app:s0:c512,c768 tcontext=u:r:kernel:s0 tclass=dir permissive=0
+2020-10-15 17:22:21.983 9718-9718/? W/ps: type=1400 audit(0.0:9137): avc: denied { search } for name="7" dev="proc" ino=8429 scontext=u:r:untrusted_app:s0:c512,c768 tcontext=u:r:kernel:s0 tclass=dir permissive=0
+2020-10-15 17:22:21.983 9718-9718/? W/ps: type=1400 audit(0.0:9138): avc: denied { getattr } for path="/proc/8" dev="proc" ino=8430 scontext=u:r:untrusted_app:s0:c512,c768 tcontext=u:r:kernel:s0 tclass=dir permissive=0
+2020-10-15 17:22:21.983 9718-9718/? W/ps: type=1400 audit(0.0:9139): avc: denied { search } for name="8" dev="proc" ino=8430 scontext=u:r:untrusted_app:s0:c512,c768 tcontext=u:r:kernel:s0 tclass=dir permissive=0
+2020-10-15 17:22:21.993 9718-9718/? W/ps: type=1400 audit(0.0:9140): avc: denied { search } for name="8" dev="proc" ino=8430 scontext=u:r:untrusted_app:s0:c512,c768 tcontext=u:r:kernel:s0 tclass=dir permissive=0
+2020-10-15 17:22:21.993 9718-9718/? W/ps: type=1400 audit(0.0:9141): avc: denied { getattr } for path="/proc/9" dev="proc" ino=8431 scontext=u:r:untrusted_app:s0:c512,c768 tcontext=u:r:kernel:s0 tclass=dir permissive=0
+2020-10-15 17:22:21.993 9718-9718/? W/ps: type=1400 audit(0.0:9142): avc: denied { search } for name="9" dev="proc" ino=8431 scontext=u:r:untrusted_app:s0:c512,c768 tcontext=u:r:kernel:s0 tclass=dir permissive=0
+2020-10-15 17:22:22.430 1635-1644/? W/art: Suspending all threads took: 70.186ms
+2020-10-15 17:22:22.454 1635-1644/? I/art: Background sticky concurrent mark sweep GC freed 14457(609KB) AllocSpace objects, 1(20KB) LOS objects, 0% free, 17MB/17MB, paused 73.062ms total 839.344ms
+2020-10-15 17:22:22.456 9617-9667/? I/GAV2: Thread[GAThread,5,main]: No campaign data found.
+2020-10-15 17:22:22.738 5271-5271/? I/Finsky: [1] com.google.android.finsky.utils.PermissionPolicies$PermissionPolicyService.onStartCommand(117): post-install permissions check for io.ionic.starter
+2020-10-15 17:22:22.783 5271-5271/? W/Finsky: [1] com.google.android.finsky.FinskyApp.i(1468): No account configured on this device.
+2020-10-15 17:22:22.865 5271-5271/? I/Finsky: [1] com.google.android.finsky.utils.bh.run(2302): Package state data is missing for io.ionic.starter
+2020-10-15 17:22:22.870 5271-5271/? W/Finsky: [1] com.google.android.finsky.FinskyApp.i(1468): No account configured on this device.
+2020-10-15 17:22:23.472 1635-1644/? W/art: Suspending all threads took: 187.057ms
+2020-10-15 17:22:23.478 1635-1644/? I/art: Background partial concurrent mark sweep GC freed 5391(313KB) AllocSpace objects, 1(20KB) LOS objects, 18% free, 17MB/21MB, paused 187.957ms total 1.014s
+2020-10-15 17:22:23.651 1635-1655/? I/Choreographer: Skipped 107 frames!  The application may be doing too much work on its main thread.
+2020-10-15 17:22:24.011 2089-2185/? D/EGL_emulation: eglMakeCurrent: 0xa0385240: ver 2 0 (tinfo 0xa03832d0)
+2020-10-15 17:22:24.100 9700-9700/io.ionic.starter I/cr_LibraryLoader: Time to load native libraries: 55 ms (timestamps 5333-5388)
+2020-10-15 17:22:24.110 9700-9700/io.ionic.starter I/cr_LibraryLoader: Expected native library version number "51.0.2704.90", actual native library version number "51.0.2704.90"
+2020-10-15 17:22:24.222 9700-9700/io.ionic.starter W/ResourceType: Invalid package identifier when getting bag for resource number 0x00000000
+2020-10-15 17:22:24.222 9700-9700/io.ionic.starter W/ResourceType: Invalid package identifier when getting bag for resource number 0x00000000
+2020-10-15 17:22:24.240 9700-9700/io.ionic.starter V/WebViewChromiumFactoryProvider: Binding Chromium to main looper Looper (main, tid 1) {f415555}
+2020-10-15 17:22:24.240 9700-9700/io.ionic.starter I/cr_LibraryLoader: Expected native library version number "51.0.2704.90", actual native library version number "51.0.2704.90"
+2020-10-15 17:22:24.303 9700-9700/io.ionic.starter I/chromium: [INFO:library_loader_hooks.cc(143)] Chromium logging enabled: level = 0, default verbosity = 0
+2020-10-15 17:22:24.647 9700-9700/io.ionic.starter I/cr_BrowserStartup: Initializing chromium process, singleProcess=true
+2020-10-15 17:22:24.767 2314-9737/? D/Wear_Controller: Received broadcast action=android.intent.action.PACKAGE_ADDED and uri=io.ionic.starter
+2020-10-15 17:22:24.808 9700-9700/io.ionic.starter E/ApkAssets: Error while loading asset assets/natives_blob_64.bin: java.io.FileNotFoundException: assets/natives_blob_64.bin
+2020-10-15 17:22:24.808 9700-9700/io.ionic.starter E/ApkAssets: Error while loading asset assets/snapshot_blob_64.bin: java.io.FileNotFoundException: assets/snapshot_blob_64.bin
+2020-10-15 17:22:24.880 2314-2475/? I/Icing: IndexChimeraService.getServiceInterface callingPackage=com.google.android.gms componentName=AppsCorpus serviceId=36
+2020-10-15 17:22:24.921 1635-2297/? I/ActivityManager: Start proc 9742:com.google.android.partnersetup/u0a18 for broadcast com.google.android.partnersetup/.RlzPingBroadcastReceiver
+2020-10-15 17:22:24.921 9742-9742/? W/art: Unexpected CPU variant for X86 using defaults: x86
+2020-10-15 17:22:24.924 2314-2475/? I/Icing: IndexChimeraService.getServiceInterface callingPackage=com.google.android.gms componentName=AppsCorpus serviceId=32
+2020-10-15 17:22:25.004 7715-9740/? I/UpdateIcingCorporaServi: Updating corpora: APPS=io.ionic.starter, CONTACTS=MAYBE
+2020-10-15 17:22:25.164 2314-2446/? I/Icing: Usage reports ok 0, Failed Usage reports 0, indexed 0, rejected 0, imm upload false
+2020-10-15 17:22:25.176 2314-2446/? I/Icing: Usage reports ok 0, Failed Usage reports 0, indexed 0, rejected 0, imm upload false
+2020-10-15 17:22:25.185 2314-2446/? I/Icing: Indexing CECE1C8D340B40B1565A70B603B9115315E8C56E from com.google.android.gms
+2020-10-15 17:22:25.192 9700-9700/io.ionic.starter D/EGL_emulation: eglCreateContext: 0x9bc26c20: maj 2 min 0 rcv 2
+2020-10-15 17:22:25.195 9700-9700/io.ionic.starter D/EGL_emulation: eglMakeCurrent: 0x9bc26c20: ver 2 0 (tinfo 0xa020e0f0)
+2020-10-15 17:22:25.241 9742-9742/? W/System: ClassLoader referenced unknown path: /system/priv-app/GooglePartnerSetup/lib/x86
+2020-10-15 17:22:25.524 2314-2475/? I/Icing: IndexChimeraService.getServiceInterface callingPackage=com.google.android.googlequicksearchbox componentName=null serviceId=36
+2020-10-15 17:22:25.734 9700-9764/io.ionic.starter W/cr_media: Requires BLUETOOTH permission
+2020-10-15 17:22:25.854 2314-2446/? I/Icing: Usage reports ok 0, Failed Usage reports 0, indexed 0, rejected 0, imm upload true
+2020-10-15 17:22:25.855 2314-2446/? I/Icing: Indexing done CECE1C8D340B40B1565A70B603B9115315E8C56E
+2020-10-15 17:22:25.903 7715-9740/? I/UpdateIcingCorporaServi: UpdateCorporaTask done [took 892 ms] updated apps [took 891 ms] 
+2020-10-15 17:22:25.904 2314-2446/? I/Icing: Indexing 1EA3E88B08F04ED8C2220E101F27ED3B57D2B392 from com.google.android.googlequicksearchbox
+2020-10-15 17:22:26.032 2314-2446/? I/Icing: Indexing done 1EA3E88B08F04ED8C2220E101F27ED3B57D2B392
+2020-10-15 17:22:26.258 9700-9700/io.ionic.starter D/cr_Ime: [InputMethodManagerWrapper.java:30] Constructor
+2020-10-15 17:22:26.287 9700-9700/io.ionic.starter W/cr_AwContents: onDetachedFromWindow called when already detached. Ignoring
+2020-10-15 17:22:26.293 9700-9700/io.ionic.starter D/cr_Ime: [InputMethodManagerWrapper.java:59] isActive: false
+2020-10-15 17:22:26.296 9700-9700/io.ionic.starter D/Capacitor: Starting BridgeActivity
+2020-10-15 17:22:26.339 9700-9700/io.ionic.starter D/Capacitor: Registering plugin: App
+2020-10-15 17:22:26.341 9700-9700/io.ionic.starter D/Capacitor: Registering plugin: Accessibility
+2020-10-15 17:22:26.341 9700-9700/io.ionic.starter D/Capacitor: Registering plugin: BackgroundTask
+2020-10-15 17:22:26.343 9700-9700/io.ionic.starter D/Capacitor: Registering plugin: Browser
+2020-10-15 17:22:26.346 9700-9700/io.ionic.starter D/Capacitor: Registering plugin: Camera
+2020-10-15 17:22:26.349 9700-9700/io.ionic.starter D/Capacitor: Registering plugin: Clipboard
+2020-10-15 17:22:26.354 9700-9700/io.ionic.starter D/Capacitor: Registering plugin: Device
+2020-10-15 17:22:26.357 9700-9700/io.ionic.starter D/Capacitor: Registering plugin: LocalNotifications
+2020-10-15 17:22:26.379 9700-9700/io.ionic.starter D/Capacitor: Registering plugin: Filesystem
+2020-10-15 17:22:26.383 9700-9700/io.ionic.starter D/Capacitor: Registering plugin: Geolocation
+2020-10-15 17:22:26.393 9700-9700/io.ionic.starter D/Capacitor: Registering plugin: Haptics
+2020-10-15 17:22:26.397 9700-9700/io.ionic.starter D/Capacitor: Registering plugin: Keyboard
+2020-10-15 17:22:26.402 9700-9700/io.ionic.starter D/Capacitor: Registering plugin: Modals
+2020-10-15 17:22:26.403 9700-9700/io.ionic.starter D/Capacitor: Registering plugin: Network
+2020-10-15 17:22:26.408 9700-9700/io.ionic.starter D/Capacitor: Registering plugin: Permissions
+2020-10-15 17:22:26.410 9700-9700/io.ionic.starter D/Capacitor: Registering plugin: Photos
+2020-10-15 17:22:26.410 9700-9700/io.ionic.starter D/Capacitor: Registering plugin: PushNotifications
+2020-10-15 17:22:26.414 9700-9700/io.ionic.starter D/Capacitor: Registering plugin: Share
+2020-10-15 17:22:26.416 9700-9700/io.ionic.starter D/Capacitor: Registering plugin: SplashScreen
+2020-10-15 17:22:26.421 9700-9700/io.ionic.starter D/Capacitor: Registering plugin: StatusBar
+2020-10-15 17:22:26.421 9700-9700/io.ionic.starter D/Capacitor: Registering plugin: Storage
+2020-10-15 17:22:26.437 9700-9700/io.ionic.starter D/Capacitor: Registering plugin: Toast
+2020-10-15 17:22:26.438 9700-9700/io.ionic.starter D/Capacitor: Registering plugin: WebView
+2020-10-15 17:22:26.552 9700-9700/io.ionic.starter E/Capacitor: Unable to read file at path public/plugins
+2020-10-15 17:22:26.555 9700-9700/io.ionic.starter D/Capacitor: Loading app at http://localhost
+2020-10-15 17:22:26.588 9700-9711/io.ionic.starter I/art: Background sticky concurrent mark sweep GC freed 27378(1688KB) AllocSpace objects, 10(272KB) LOS objects, 45% free, 4MB/8MB, paused 2.609ms total 117.828ms
+2020-10-15 17:22:26.728 9700-9700/io.ionic.starter I/cr_Ime: ImeThread is not enabled.
+2020-10-15 17:22:26.784 9700-9700/io.ionic.starter D/Capacitor/LN: LocalNotification received: null
+2020-10-15 17:22:26.784 9700-9700/io.ionic.starter D/Capacitor/LN: Activity started without notification attached
+2020-10-15 17:22:26.788 9700-9700/io.ionic.starter D/Capacitor: App started
+2020-10-15 17:22:26.798 9700-9700/io.ionic.starter D/Capacitor/App: Firing change: true
+2020-10-15 17:22:26.798 9700-9700/io.ionic.starter V/Capacitor/App: Notifying listeners for event appStateChange
+2020-10-15 17:22:26.798 9700-9700/io.ionic.starter D/Capacitor/App: No listeners found for event appStateChange
+2020-10-15 17:22:26.803 9700-9700/io.ionic.starter D/Capacitor: App resumed
+2020-10-15 17:22:26.817 1346-1353/? E/SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+2020-10-15 17:22:27.006 9700-9700/io.ionic.starter V/Capacitor/Network: Notifying listeners for event networkStatusChange
+2020-10-15 17:22:27.006 9700-9700/io.ionic.starter D/Capacitor/Network: No listeners found for event networkStatusChange
+2020-10-15 17:22:27.070 9700-9780/io.ionic.starter I/OpenGLRenderer: Initialized EGL, version 1.4
+2020-10-15 17:22:27.070 9700-9780/io.ionic.starter D/OpenGLRenderer: Swap behavior 1
+2020-10-15 17:22:27.071 9700-9780/io.ionic.starter W/OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+2020-10-15 17:22:27.071 9700-9780/io.ionic.starter D/OpenGLRenderer: Swap behavior 0
+2020-10-15 17:22:27.104 9700-9780/io.ionic.starter D/EGL_emulation: eglCreateContext: 0x8bb8fe60: maj 2 min 0 rcv 2
+2020-10-15 17:22:27.121 9700-9780/io.ionic.starter D/EGL_emulation: eglMakeCurrent: 0x8bb8fe60: ver 2 0 (tinfo 0x8d0d7ff0)
+2020-10-15 17:22:27.874 9700-9700/io.ionic.starter W/art: Attempt to remove non-JNI local reference, dumping thread
+2020-10-15 17:22:27.878 9700-9780/io.ionic.starter D/EGL_emulation: eglMakeCurrent: 0x8bb8fe60: ver 2 0 (tinfo 0x8d0d7ff0)
+2020-10-15 17:22:27.902 9700-9784/io.ionic.starter E/libEGL: validate_display:99 error 3008 (EGL_BAD_DISPLAY)
+2020-10-15 17:22:27.921 1635-1655/? I/ActivityManager: Displayed io.ionic.starter/.MainActivity: +6s286ms
+2020-10-15 17:22:27.983 9700-9700/io.ionic.starter W/art: Attempt to remove non-JNI local reference, dumping thread
+2020-10-15 17:22:28.066 9700-9756/io.ionic.starter D/Capacitor: Handling local request: http://localhost/
+2020-10-15 17:22:28.135 1635-2166/? I/WindowManager: Destroying surface Surface(name=com.android.launcher3/com.android.launcher3.Launcher) called by com.android.server.wm.WindowStateAnimator.destroySurface:2016 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:882 com.android.server.wm.WindowState.destroyOrSaveSurface:2100 com.android.server.wm.AppWindowToken.destroySurfaces:363 com.android.server.wm.AppWindowToken.notifyAppStopped:389 com.android.server.wm.WindowManagerService.notifyAppStopped:4463 com.android.server.am.ActivityStack.activityStoppedLocked:1252 com.android.server.am.ActivityManagerService.activityStopped:6903 
+2020-10-15 17:22:28.143 9700-9784/io.ionic.starter I/VideoCapabilities: Unsupported profile 4 for video/mp4v-es
+2020-10-15 17:22:28.159 1635-1655/? I/WindowManager: Destroying surface Surface(name=Starting io.ionic.starter) called by com.android.server.wm.WindowStateAnimator.destroySurface:2016 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:882 com.android.server.wm.WindowState.destroyOrSaveSurface:2100 com.android.server.wm.AppWindowToken.destroySurfaces:363 com.android.server.wm.WindowStateAnimator.finishExit:565 com.android.server.wm.WindowStateAnimator.stepAnimationLocked:491 com.android.server.wm.WindowAnimator.updateWindowsLocked:303 com.android.server.wm.WindowAnimator.animateLocked:704 
+2020-10-15 17:22:28.218 9700-9784/io.ionic.starter D/EGL_emulation: eglCreateContext: 0x8bb8e2a0: maj 2 min 0 rcv 2
+2020-10-15 17:22:28.221 9700-9784/io.ionic.starter D/EGL_emulation: eglMakeCurrent: 0x8bb8e2a0: ver 2 0 (tinfo 0xa020e5b0)
+2020-10-15 17:22:28.358 9700-9700/io.ionic.starter W/art: Attempt to remove non-JNI local reference, dumping thread
+2020-10-15 17:22:28.377 9700-9700/io.ionic.starter W/cr_BindingManager: Cannot call determinedVisibility() - never saw a connection for the pid: 9700
+2020-10-15 17:22:28.385 9700-9700/io.ionic.starter D/cr_Ime: [InputMethodManagerWrapper.java:59] isActive: true
+2020-10-15 17:22:28.385 9700-9700/io.ionic.starter D/cr_Ime: [InputMethodManagerWrapper.java:68] hideSoftInputFromWindow
+2020-10-15 17:22:28.395 9700-9700/io.ionic.starter W/art: Attempt to remove non-JNI local reference, dumping thread
+2020-10-15 17:22:28.414 9700-9700/io.ionic.starter W/art: Attempt to remove non-JNI local reference, dumping thread
+2020-10-15 17:22:28.426 9700-9700/io.ionic.starter W/art: Attempt to remove non-JNI local reference, dumping thread
+2020-10-15 17:22:28.447 9700-9700/io.ionic.starter W/art: Attempt to remove non-JNI local reference, dumping thread
+2020-10-15 17:22:28.470 9700-9700/io.ionic.starter W/art: Attempt to remove non-JNI local reference, dumping thread
+2020-10-15 17:22:28.490 9700-9700/io.ionic.starter W/art: Attempt to remove non-JNI local reference, dumping thread
+2020-10-15 17:22:28.514 9700-9700/io.ionic.starter W/art: Attempt to remove non-JNI local reference, dumping thread
+2020-10-15 17:22:28.536 9700-9700/io.ionic.starter W/art: Attempt to remove non-JNI local reference, dumping thread
+2020-10-15 17:22:28.559 9700-9700/io.ionic.starter W/art: Attempt to remove non-JNI local reference, dumping thread
+2020-10-15 17:22:28.580 9700-9700/io.ionic.starter W/art: Attempt to remove non-JNI local reference, dumping thread
+2020-10-15 17:22:28.603 9700-9700/io.ionic.starter W/art: Attempt to remove non-JNI local reference, dumping thread
+2020-10-15 17:22:28.622 9700-9700/io.ionic.starter W/art: Attempt to remove non-JNI local reference, dumping thread
+2020-10-15 17:22:28.647 9700-9700/io.ionic.starter W/art: Attempt to remove non-JNI local reference, dumping thread
+2020-10-15 17:22:28.673 9700-9700/io.ionic.starter W/art: Attempt to remove non-JNI local reference, dumping thread
+2020-10-15 17:22:28.696 9700-9700/io.ionic.starter W/art: Attempt to remove non-JNI local reference, dumping thread
+2020-10-15 17:22:28.718 9700-9700/io.ionic.starter W/art: Attempt to remove non-JNI local reference, dumping thread
+2020-10-15 17:22:28.738 9700-9700/io.ionic.starter W/art: Attempt to remove non-JNI local reference, dumping thread
+2020-10-15 17:22:28.761 9700-9700/io.ionic.starter W/art: Attempt to remove non-JNI local reference, dumping thread
+2020-10-15 17:22:28.780 9700-9700/io.ionic.starter W/art: Attempt to remove non-JNI local reference, dumping thread
+2020-10-15 17:22:28.796 9700-9700/io.ionic.starter W/art: Attempt to remove non-JNI local reference, dumping thread
+2020-10-15 17:22:28.812 9700-9700/io.ionic.starter W/art: Attempt to remove non-JNI local reference, dumping thread
+2020-10-15 17:22:28.828 9700-9700/io.ionic.starter W/art: Attempt to remove non-JNI local reference, dumping thread
+2020-10-15 17:22:28.849 9700-9700/io.ionic.starter W/art: Attempt to remove non-JNI local reference, dumping thread
+2020-10-15 17:22:28.873 9700-9756/io.ionic.starter D/Capacitor: Handling local request: http://localhost/static/css/4.8921c4c4.chunk.css
+2020-10-15 17:22:28.874 9700-9700/io.ionic.starter W/art: Attempt to remove non-JNI local reference, dumping thread
+2020-10-15 17:22:28.879 9700-9756/io.ionic.starter D/Capacitor: Handling local request: http://localhost/static/css/main.8d2debf6.chunk.css
+2020-10-15 17:22:28.880 9700-9756/io.ionic.starter D/Capacitor: Handling local request: http://localhost/static/js/runtime-main.d6611d75.js
+2020-10-15 17:22:28.881 9700-9756/io.ionic.starter D/Capacitor: Handling local request: http://localhost/static/js/4.ba83f8d2.chunk.js
+2020-10-15 17:22:28.881 9700-9756/io.ionic.starter D/Capacitor: Handling local request: http://localhost/static/js/main.1b3a87ef.chunk.js
+2020-10-15 17:22:28.890 9700-9700/io.ionic.starter W/Capacitor/Console: File: capacitor-runtime.js - Line 57 - Msg: Advance console logging disabled.
+2020-10-15 17:22:28.893 9700-9700/io.ionic.starter W/Capacitor/Console: File: http://localhost/ - Line 1070 - Msg: The key "viewport-fit" is not recognized and ignored.
+2020-10-15 17:22:28.896 9700-9700/io.ionic.starter W/art: Attempt to remove non-JNI local reference, dumping thread
+2020-10-15 17:22:28.925 9700-9700/io.ionic.starter W/art: Attempt to remove non-JNI local reference, dumping thread
+2020-10-15 17:22:28.935 9700-9700/io.ionic.starter W/art: Attempt to remove non-JNI local reference, dumping thread
+2020-10-15 17:22:28.953 9700-9700/io.ionic.starter W/art: Attempt to remove non-JNI local reference, dumping thread
+2020-10-15 17:22:28.973 9700-9700/io.ionic.starter W/art: Attempt to remove non-JNI local reference, dumping thread
+2020-10-15 17:22:28.990 9700-9700/io.ionic.starter W/art: Attempt to remove non-JNI local reference, dumping thread
+2020-10-15 17:22:29.008 9700-9700/io.ionic.starter W/art: Attempt to remove non-JNI local reference, dumping thread
+2020-10-15 17:22:29.034 9700-9700/io.ionic.starter W/art: Attempt to remove non-JNI local reference, dumping thread
+2020-10-15 17:22:29.040 9700-9700/io.ionic.starter W/art: Attempt to remove non-JNI local reference, dumping thread
+2020-10-15 17:22:29.059 9700-9700/io.ionic.starter W/art: Attempt to remove non-JNI local reference, dumping thread
+2020-10-15 17:22:29.086 9700-9700/io.ionic.starter W/art: Attempt to remove non-JNI local reference, dumping thread
+2020-10-15 17:22:29.106 9700-9700/io.ionic.starter W/art: Attempt to remove non-JNI local reference, dumping thread
+2020-10-15 17:22:29.128 9700-9700/io.ionic.starter W/art: Attempt to remove non-JNI local reference, dumping thread
+2020-10-15 17:22:29.149 9700-9700/io.ionic.starter W/art: Attempt to remove non-JNI local reference, dumping thread
+2020-10-15 17:22:29.171 9700-9700/io.ionic.starter W/art: Attempt to remove non-JNI local reference, dumping thread
+2020-10-15 17:22:29.187 9700-9700/io.ionic.starter W/art: Attempt to remove non-JNI local reference, dumping thread
+2020-10-15 17:22:29.207 9700-9700/io.ionic.starter W/art: Attempt to remove non-JNI local reference, dumping thread
+2020-10-15 17:22:29.227 9700-9700/io.ionic.starter W/art: Attempt to remove non-JNI local reference, dumping thread
+2020-10-15 17:22:29.248 9700-9700/io.ionic.starter W/art: Attempt to remove non-JNI local reference, dumping thread
+2020-10-15 17:22:29.271 9700-9700/io.ionic.starter W/art: Attempt to remove non-JNI local reference, dumping thread
+2020-10-15 17:22:29.290 9700-9700/io.ionic.starter W/art: Attempt to remove non-JNI local reference, dumping thread
+2020-10-15 17:22:29.308 9700-9700/io.ionic.starter W/art: Attempt to remove non-JNI local reference, dumping thread
+2020-10-15 17:22:29.325 9700-9700/io.ionic.starter W/art: Attempt to remove non-JNI local reference, dumping thread
+2020-10-15 17:22:29.347 9700-9700/io.ionic.starter W/art: Attempt to remove non-JNI local reference, dumping thread
+2020-10-15 17:22:29.365 9700-9700/io.ionic.starter W/art: Attempt to remove non-JNI local reference, dumping thread
+2020-10-15 17:22:29.389 9700-9700/io.ionic.starter W/art: Attempt to remove non-JNI local reference, dumping thread
+2020-10-15 17:22:29.404 9700-9700/io.ionic.starter W/art: Attempt to remove non-JNI local reference, dumping thread
+2020-10-15 17:22:29.426 9700-9700/io.ionic.starter W/art: Attempt to remove non-JNI local reference, dumping thread
+2020-10-15 17:22:29.474 9700-9756/io.ionic.starter D/Capacitor: Handling local request: http://localhost/assets/icon/favicon.png
+2020-10-15 17:22:29.827 9700-9700/io.ionic.starter W/art: Attempt to remove non-JNI local reference, dumping thread
+2020-10-15 17:22:29.833 9700-9700/io.ionic.starter E/Capacitor/Console: File: http://localhost/static/js/4.ba83f8d2.chunk.js - Line 2 - Msg: Uncaught (in promise) TypeError: Object.entries is not a function
+2020-10-15 17:22:37.643 5271-5341/? W/Finsky: [362] com.google.android.finsky.FinskyApp.i(1468): No account configured on this device.
+2020-10-15 17:22:37.645 5271-5341/? I/Finsky: [362] com.google.android.finsky.c.e.run(1151): Replicating app states via AMAS.
+2020-10-15 17:22:37.732 5271-5341/? I/Finsky: [362] com.google.android.finsky.c.c.a(311): Completed 0 account content syncs with 0 successful.
+2020-10-15 17:22:37.738 5271-5271/? I/Finsky: [1] com.google.android.finsky.services.j.a(149): Installation state replication succeeded.
+2020-10-15 17:22:57.532 1635-1666/? I/ActivityManager: Killing 7580:com.android.keychain/1000 (adj 906): empty #17
+2020-10-15 17:22:57.540 5271-5271/? W/Finsky: [1] com.google.android.finsky.FinskyApp.i(1468): No account configured on this device.
+2020-10-15 17:22:57.546 1635-1648/? I/ProcessStatsService: Prepared write state in 13ms
+2020-10-15 17:22:57.561 5271-5271/? W/Finsky: [1] com.google.android.finsky.FinskyApp.i(1468): No account configured on this device.
+2020-10-15 17:22:57.575 5271-5271/? W/Finsky: [1] com.google.android.finsky.FinskyApp.i(1468): No account configured on this device.
+2020-10-15 17:22:57.596 5271-5271/? I/Finsky: [1] com.google.android.finsky.services.DailyHygiene.a(17227): Beginning daily hygiene, foreground = false
+2020-10-15 17:22:57.605 1635-1646/? D/ActivityManager: cleanUpApplicationRecord -- 7580
+2020-10-15 17:22:57.616 5271-5271/? W/Finsky: [1] com.google.android.finsky.FinskyApp.i(1468): No account configured on this device.
+2020-10-15 17:22:57.617 5271-5271/? W/Finsky: [1] com.google.android.finsky.FinskyApp.b(1150): No account configured on this device.
+2020-10-15 17:22:57.865 5271-5271/? W/Finsky: [1] com.google.android.finsky.FinskyApp.i(1468): No account configured on this device.
+2020-10-15 17:22:57.865 5271-5271/? W/Finsky: [1] com.google.android.finsky.FinskyApp.i(1468): No account configured on this device.
+2020-10-15 17:22:57.866 5271-5271/? W/Finsky: [1] com.google.android.finsky.FinskyApp.i(1468): No account configured on this device.
+2020-10-15 17:22:57.889 5271-5271/? W/Finsky: [1] com.google.android.finsky.FinskyApp.i(1468): No account configured on this device.
+2020-10-15 17:22:57.895 5271-5271/? W/Finsky: [1] com.google.android.finsky.FinskyApp.i(1468): No account configured on this device.
+2020-10-15 17:22:57.895 5271-5271/? I/Finsky: [1] com.google.android.finsky.wear.WearSupportService.a(161): disabled
+2020-10-15 17:22:57.901 5271-5271/? W/Finsky: [1] com.google.android.finsky.FinskyApp.i(1468): No account configured on this device.
+2020-10-15 17:22:57.960 5271-5271/? I/Finsky: [1] com.google.android.finsky.services.DailyHygiene.d(590): Logging device features
+2020-10-15 17:22:58.011 5271-5271/? W/Finsky: [1] com.google.android.finsky.FinskyApp.i(1468): No account configured on this device.
+2020-10-15 17:22:58.144 5271-5271/? W/Finsky: [1] com.google.android.finsky.FinskyApp.i(1468): No account configured on this device.
+2020-10-15 17:22:58.150 5271-5271/? W/Finsky: [1] com.google.android.finsky.FinskyApp.i(1468): No account configured on this device.
+2020-10-15 17:22:58.151 5271-5271/? W/Finsky: [1] com.google.android.finsky.FinskyApp.i(1468): No account configured on this device.
+2020-10-15 17:22:58.152 5271-5271/? I/Finsky: [1] com.google.android.finsky.selfupdate.SelfUpdateCheckerScheduler.a(57): Cancelling accelerated self-Update check
+2020-10-15 17:22:58.166 5271-5271/? W/Finsky: [1] com.google.android.finsky.FinskyApp.i(1468): No account configured on this device.
+2020-10-15 17:22:58.166 7715-9794/? I/ContextCompilationHandl: Compiling grammar for: en-US, type=CONTACT_DIALING
+2020-10-15 17:22:58.174 5271-5271/? I/Finsky: [1] com.google.android.vending.verifier.VerifyInstalledPackagesReceiver.onReceive(42): Verify installed apps requested
+2020-10-15 17:22:58.200 7715-9794/? I/ContextCompilationHandl: No grammar compilation resources for COMPILER, aborting. 
+2020-10-15 17:22:58.200 7715-9794/? I/ContextCompilationHandl: Compiling grammar for: en-US, type=HANDS_FREE_COMMANDS
+2020-10-15 17:22:58.200 7715-9794/? I/ContextCompilationHandl: No grammar compilation resources for COMPILER, aborting. 
+2020-10-15 17:22:58.200 7715-9794/? I/ContextCompilationHandl: Compiling grammar for: en-US, type=CONTACT_NAMES
+2020-10-15 17:22:58.223 7715-9794/? I/ContextCompilationHandl: No grammar compilation resources for VOICE_ACTIONS_COMPILER, aborting. 
+2020-10-15 17:22:58.223 7715-9794/? I/ContextCompilationHandl: Compiling grammar for: en-US, type=APP_NAMES
+2020-10-15 17:22:58.250 5271-9797/? I/Finsky: [373] com.google.android.vending.verifier.ac.a(103): Verifying installed packages
+2020-10-15 17:22:58.490 7715-9794/? I/ContextCompilationHandl: No grammar compilation resources for VOICE_ACTIONS_COMPILER, aborting. 
+2020-10-15 17:22:58.490 7715-9794/? I/ContextCompilationHandl: Compiling grammar for: en-US, type=MUSIC_NAMES
+2020-10-15 17:22:58.498 7715-9794/? I/ContextCompilationHandl: No grammar compilation resources for VOICE_ACTIONS_COMPILER, aborting. 
+2020-10-15 17:22:58.538 2314-2475/? I/Icing: IndexChimeraService.getServiceInterface callingPackage=com.google.android.googlequicksearchbox componentName=null serviceId=32
+2020-10-15 17:22:58.543 2314-2473/? I/Icing: IndexChimeraService.getServiceInterface callingPackage=com.google.android.googlequicksearchbox componentName=null serviceId=33
+2020-10-15 17:22:58.544 5271-5271/? I/Finsky: [1] com.google.android.vending.verifier.ac.b(136): Done verifying installed packages
+2020-10-15 17:22:58.567 2314-2446/? I/Icing: Usage reports ok 0, Failed Usage reports 0, indexed 0, rejected 0, imm upload true
+2020-10-15 17:22:58.573 2314-2446/? I/Icing: Usage reports ok 0, Failed Usage reports 0, indexed 0, rejected 0, imm upload true
+2020-10-15 17:23:12.654 5271-5341/? W/Finsky: [362] com.google.android.finsky.FinskyApp.i(1468): No account configured on this device.
+2020-10-15 17:23:12.654 5271-5341/? I/Finsky: [362] com.google.android.finsky.c.e.run(1151): Replicating app states via AMAS.
+2020-10-15 17:23:12.730 5271-5341/? I/Finsky: [362] com.google.android.finsky.c.c.a(311): Completed 0 account content syncs with 0 successful.
+2020-10-15 17:23:12.730 5271-5271/? I/Finsky: [1] com.google.android.finsky.services.j.a(149): Installation state replication succeeded.
+2020-10-15 17:24:00.002 1635-1635/? I/ActivityManager: Killing 9134:com.android.documentsui/u0a10 (adj 906): empty #17
+2020-10-15 17:24:00.041 1635-1646/? D/ActivityManager: cleanUpApplicationRecord -- 9134
