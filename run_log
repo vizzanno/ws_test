@@ -1,4 +1,3 @@
-
 10/15 17:22:14: Launching 'app' on Pixel 2 API 24.
 $ adb shell am start -n "io.ionic.starter/io.ionic.starter.MainActivity" -a android.intent.action.MAIN -c android.intent.category.LAUNCHER
 Connected to process 9700 on device 'emulator-5554'.
