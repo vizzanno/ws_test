@@ -1,0 +1,193 @@
+
+10/15 17:22:14: Launching 'app' on Pixel 2 API 24.
+$ adb shell am start -n "io.ionic.starter/io.ionic.starter.MainActivity" -a android.intent.action.MAIN -c android.intent.category.LAUNCHER
+Connected to process 9700 on device 'emulator-5554'.
+Capturing and displaying logcat messages from application. This behavior can be disabled in the "Logcat output" section of the "Debugger" settings page.
+W/System: ClassLoader referenced unknown path: /data/app/io.ionic.starter-1/lib/x86
+W/FirebaseApp: Default FirebaseApp failed to initialize because no default options were found. This usually means that com.google.gms:google-services was not applied to your gradle project.
+I/FirebaseInitProvider: FirebaseApp initialization unsuccessful
+W/art: Before Android 4.1, method android.graphics.PorterDuffColorFilter androidx.vectordrawable.graphics.drawable.VectorDrawableCompat.updateTintFilter(android.graphics.PorterDuffColorFilter, android.content.res.ColorStateList, android.graphics.PorterDuff$Mode) would have incorrectly overridden the package-private method in android.graphics.drawable.Drawable
+W/ResourceType: Invalid package identifier when getting bag for resource number 0x00000000
+I/art: Rejecting re-init on previously-failed class java.lang.Class<androidx.core.view.ViewCompat$2>: java.lang.NoClassDefFoundError: Failed resolution of: Landroid/view/View$OnUnhandledKeyEventListener;
+        at void androidx.core.view.ViewCompat.setOnApplyWindowInsetsListener(android.view.View, androidx.core.view.OnApplyWindowInsetsListener) (ViewCompat.java:2436)
+        at android.view.ViewGroup androidx.appcompat.app.AppCompatDelegateImpl.createSubDecor() (AppCompatDelegateImpl.java:779)
+        at void androidx.appcompat.app.AppCompatDelegateImpl.ensureSubDecor() (AppCompatDelegateImpl.java:659)
+        at void androidx.appcompat.app.AppCompatDelegateImpl.setContentView(int) (AppCompatDelegateImpl.java:552)
+        at void androidx.appcompat.app.AppCompatActivity.setContentView(int) (AppCompatActivity.java:161)
+        at void com.getcapacitor.BridgeActivity.init(android.os.Bundle, java.util.List, org.json.JSONObject) (BridgeActivity.java:60)
+        at void com.getcapacitor.BridgeActivity.init(android.os.Bundle, java.util.List) (BridgeActivity.java:48)
+        at void io.ionic.starter.MainActivity.onCreate(android.os.Bundle) (MainActivity.java:16)
+        at void android.app.Activity.performCreate(android.os.Bundle) (Activity.java:6662)
+        at void android.app.Instrumentation.callActivityOnCreate(android.app.Activity, android.os.Bundle) (Instrumentation.java:1118)
+        at android.app.Activity android.app.ActivityThread.performLaunchActivity(android.app.ActivityThread$ActivityClientRecord, android.content.Intent) (ActivityThread.java:2599)
+        at void android.app.ActivityThread.handleLaunchActivity(android.app.ActivityThread$ActivityClientRecord, android.content.Intent, java.lang.String) (ActivityThread.java:2707)
+        at void android.app.ActivityThread.-wrap12(android.app.ActivityThread, android.app.ActivityThread$ActivityClientRecord, android.content.Intent, java.lang.String) (ActivityThread.java:-1)
+        at void android.app.ActivityThread$H.handleMessage(android.os.Message) (ActivityThread.java:1460)
+        at void android.os.Handler.dispatchMessage(android.os.Message) (Handler.java:102)
+        at void android.os.Looper.loop() (Looper.java:154)
+        at void android.app.ActivityThread.main(java.lang.String[]) (ActivityThread.java:6077)
+        at java.lang.Object java.lang.reflect.Method.invoke!(java.lang.Object, java.lang.Object[]) (Method.java:-2)
+        at void com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run() (ZygoteInit.java:866)
+        at void com.android.internal.os.ZygoteInit.main(java.lang.String[]) (ZygoteInit.java:756)
+    Caused by: java.lang.ClassNotFoundException: Didn't find class "android.view.View$OnUnhandledKeyEventListener" on path: DexPathList[[zip file "/data/app/io.ionic.starter-1/base.apk"],nativeLibraryDirectories=[/data/app/io.ionic.starter-1/lib/x86, /system/lib, /vendor/lib]]
+        at java.lang.Class dalvik.system.BaseDexClassLoader.findClass(java.lang.String) (BaseDexClassLoader.java:56)
+        at java.lang.Class java.lang.ClassLoader.loadClass(java.lang.String, boolean) (ClassLoader.java:380)
+        at java.lang.Class java.lang.ClassLoader.loadClass(java.lang.String) (ClassLoader.java:312)
+        at void androidx.core.view.ViewCompat.setOnApplyWindowInsetsListener(android.view.View, androidx.core.view.OnApplyWindowInsetsListener) (ViewCompat.java:2436)
+        at android.view.ViewGroup androidx.appcompat.app.AppCompatDelegateImpl.createSubDecor() (AppCompatDelegateImpl.java:779)
+        at void androidx.appcompat.app.AppCompatDelegateImpl.ensureSubDecor() (AppCompatDelegateImpl.java:659)
+        at void androidx.appcompat.app.AppCompatDelegateImpl.setContentView(int) (AppCompatDelegateImpl.java:552)
+        at void androidx.appcompat.app.AppCompatActivity.setContentView(int) (AppCompatActivity.java:161)
+        at void com.getcapacitor.BridgeActivity.init(android.os.Bundle, java.util.List, org.json.JSONObject) (BridgeActivity.java:60)
+        at void com.getcapacitor.BridgeActivity.init(android.os.Bundle, java.util.List) (BridgeActivity.java:48)
+        at void io.ionic.starter.MainActivity.onCreate(android.os.Bundle) (MainActivity.java:16)
+        at void android.app.Activity.performCreate(android.os.Bundle) (Activity.java:6662)
+I/art:     at void android.app.Instrumentation.callActivityOnCreate(android.app.Activity, android.os.Bundle) (Instrumentation.java:1118)
+        at android.app.Activity android.app.ActivityThread.performLaunchActivity(android.app.ActivityThread$ActivityClientRecord, android.content.Intent) (ActivityThread.java:2599)
+        at void android.app.ActivityThread.handleLaunchActivity(android.app.ActivityThread$ActivityClientRecord, android.content.Intent, java.lang.String) (ActivityThread.java:2707)
+        at void android.app.ActivityThread.-wrap12(android.app.ActivityThread, android.app.ActivityThread$ActivityClientRecord, android.content.Intent, java.lang.String) (ActivityThread.java:-1)
+        at void android.app.ActivityThread$H.handleMessage(android.os.Message) (ActivityThread.java:1460)
+        at void android.os.Handler.dispatchMessage(android.os.Message) (Handler.java:102)
+        at void android.os.Looper.loop() (Looper.java:154)
+        at void android.app.ActivityThread.main(java.lang.String[]) (ActivityThread.java:6077)
+        at java.lang.Object java.lang.reflect.Method.invoke!(java.lang.Object, java.lang.Object[]) (Method.java:-2)
+        at void com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run() (ZygoteInit.java:866)
+        at void com.android.internal.os.ZygoteInit.main(java.lang.String[]) (ZygoteInit.java:756)
+W/System: ClassLoader referenced unknown path: /system/app/Chrome/lib/x86
+I/WebViewFactory: Loading com.android.chrome version 51.0.2704.90 (code 275509012)
+I/cr_LibraryLoader: Time to load native libraries: 55 ms (timestamps 5333-5388)
+I/cr_LibraryLoader: Expected native library version number "51.0.2704.90", actual native library version number "51.0.2704.90"
+W/ResourceType: Invalid package identifier when getting bag for resource number 0x00000000
+    Invalid package identifier when getting bag for resource number 0x00000000
+V/WebViewChromiumFactoryProvider: Binding Chromium to main looper Looper (main, tid 1) {f415555}
+I/cr_LibraryLoader: Expected native library version number "51.0.2704.90", actual native library version number "51.0.2704.90"
+I/chromium: [INFO:library_loader_hooks.cc(143)] Chromium logging enabled: level = 0, default verbosity = 0
+I/cr_BrowserStartup: Initializing chromium process, singleProcess=true
+E/ApkAssets: Error while loading asset assets/natives_blob_64.bin: java.io.FileNotFoundException: assets/natives_blob_64.bin
+    Error while loading asset assets/snapshot_blob_64.bin: java.io.FileNotFoundException: assets/snapshot_blob_64.bin
+D/: HostConnection::get() New Host Connection established 0x9bc7cc00, tid 9700
+D/EGL_emulation: eglCreateContext: 0x9bc26c20: maj 2 min 0 rcv 2
+D/EGL_emulation: eglMakeCurrent: 0x9bc26c20: ver 2 0 (tinfo 0xa020e0f0)
+W/cr_media: Requires BLUETOOTH permission
+D/cr_Ime: [InputMethodManagerWrapper.java:30] Constructor
+W/cr_AwContents: onDetachedFromWindow called when already detached. Ignoring
+D/cr_Ime: [InputMethodManagerWrapper.java:59] isActive: false
+D/Capacitor: Starting BridgeActivity
+D/Capacitor: Registering plugin: App
+D/Capacitor: Registering plugin: Accessibility
+    Registering plugin: BackgroundTask
+D/Capacitor: Registering plugin: Browser
+D/Capacitor: Registering plugin: Camera
+D/Capacitor: Registering plugin: Clipboard
+D/Capacitor: Registering plugin: Device
+D/Capacitor: Registering plugin: LocalNotifications
+D/Capacitor: Registering plugin: Filesystem
+D/Capacitor: Registering plugin: Geolocation
+D/Capacitor: Registering plugin: Haptics
+D/Capacitor: Registering plugin: Keyboard
+D/Capacitor: Registering plugin: Modals
+D/Capacitor: Registering plugin: Network
+D/Capacitor: Registering plugin: Permissions
+D/Capacitor: Registering plugin: Photos
+    Registering plugin: PushNotifications
+D/Capacitor: Registering plugin: Share
+D/Capacitor: Registering plugin: SplashScreen
+D/Capacitor: Registering plugin: StatusBar
+    Registering plugin: Storage
+D/Capacitor: Registering plugin: Toast
+D/Capacitor: Registering plugin: WebView
+E/Capacitor: Unable to read file at path public/plugins
+D/Capacitor: Loading app at http://localhost
+I/art: Background sticky concurrent mark sweep GC freed 27378(1688KB) AllocSpace objects, 10(272KB) LOS objects, 45% free, 4MB/8MB, paused 2.609ms total 117.828ms
+I/cr_Ime: ImeThread is not enabled.
+D/Capacitor/LN: LocalNotification received: null
+    Activity started without notification attached
+D/Capacitor: App started
+D/Capacitor/App: Firing change: true
+V/Capacitor/App: Notifying listeners for event appStateChange
+D/Capacitor/App: No listeners found for event appStateChange
+D/Capacitor: App resumed
+V/Capacitor/Network: Notifying listeners for event networkStatusChange
+D/Capacitor/Network: No listeners found for event networkStatusChange
+I/OpenGLRenderer: Initialized EGL, version 1.4
+D/OpenGLRenderer: Swap behavior 1
+D/: HostConnection::get() New Host Connection established 0x8a883480, tid 9780
+W/OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+D/OpenGLRenderer: Swap behavior 0
+D/EGL_emulation: eglCreateContext: 0x8bb8fe60: maj 2 min 0 rcv 2
+D/EGL_emulation: eglMakeCurrent: 0x8bb8fe60: ver 2 0 (tinfo 0x8d0d7ff0)
+W/art: Attempt to remove non-JNI local reference, dumping thread
+D/EGL_emulation: eglMakeCurrent: 0x8bb8fe60: ver 2 0 (tinfo 0x8d0d7ff0)
+E/libEGL: validate_display:99 error 3008 (EGL_BAD_DISPLAY)
+W/art: Attempt to remove non-JNI local reference, dumping thread
+D/Capacitor: Handling local request: http://localhost/
+I/VideoCapabilities: Unsupported profile 4 for video/mp4v-es
+D/: HostConnection::get() New Host Connection established 0x8a19ba80, tid 9784
+D/EGL_emulation: eglCreateContext: 0x8bb8e2a0: maj 2 min 0 rcv 2
+D/EGL_emulation: eglMakeCurrent: 0x8bb8e2a0: ver 2 0 (tinfo 0xa020e5b0)
+W/art: Attempt to remove non-JNI local reference, dumping thread
+W/cr_BindingManager: Cannot call determinedVisibility() - never saw a connection for the pid: 9700
+D/cr_Ime: [InputMethodManagerWrapper.java:59] isActive: true
+    [InputMethodManagerWrapper.java:68] hideSoftInputFromWindow
+W/art: Attempt to remove non-JNI local reference, dumping thread
+W/art: Attempt to remove non-JNI local reference, dumping thread
+W/art: Attempt to remove non-JNI local reference, dumping thread
+W/art: Attempt to remove non-JNI local reference, dumping thread
+W/art: Attempt to remove non-JNI local reference, dumping thread
+W/art: Attempt to remove non-JNI local reference, dumping thread
+W/art: Attempt to remove non-JNI local reference, dumping thread
+W/art: Attempt to remove non-JNI local reference, dumping thread
+W/art: Attempt to remove non-JNI local reference, dumping thread
+W/art: Attempt to remove non-JNI local reference, dumping thread
+W/art: Attempt to remove non-JNI local reference, dumping thread
+W/art: Attempt to remove non-JNI local reference, dumping thread
+W/art: Attempt to remove non-JNI local reference, dumping thread
+W/art: Attempt to remove non-JNI local reference, dumping thread
+W/art: Attempt to remove non-JNI local reference, dumping thread
+W/art: Attempt to remove non-JNI local reference, dumping thread
+W/art: Attempt to remove non-JNI local reference, dumping thread
+W/art: Attempt to remove non-JNI local reference, dumping thread
+W/art: Attempt to remove non-JNI local reference, dumping thread
+W/art: Attempt to remove non-JNI local reference, dumping thread
+W/art: Attempt to remove non-JNI local reference, dumping thread
+W/art: Attempt to remove non-JNI local reference, dumping thread
+W/art: Attempt to remove non-JNI local reference, dumping thread
+D/Capacitor: Handling local request: http://localhost/static/css/4.8921c4c4.chunk.css
+W/art: Attempt to remove non-JNI local reference, dumping thread
+D/Capacitor: Handling local request: http://localhost/static/css/main.8d2debf6.chunk.css
+D/Capacitor: Handling local request: http://localhost/static/js/runtime-main.d6611d75.js
+D/Capacitor: Handling local request: http://localhost/static/js/4.ba83f8d2.chunk.js
+    Handling local request: http://localhost/static/js/main.1b3a87ef.chunk.js
+W/Capacitor/Console: File: capacitor-runtime.js - Line 57 - Msg: Advance console logging disabled.
+W/Capacitor/Console: File: http://localhost/ - Line 1070 - Msg: The key "viewport-fit" is not recognized and ignored.
+W/art: Attempt to remove non-JNI local reference, dumping thread
+W/art: Attempt to remove non-JNI local reference, dumping thread
+W/art: Attempt to remove non-JNI local reference, dumping thread
+W/art: Attempt to remove non-JNI local reference, dumping thread
+W/art: Attempt to remove non-JNI local reference, dumping thread
+W/art: Attempt to remove non-JNI local reference, dumping thread
+W/art: Attempt to remove non-JNI local reference, dumping thread
+W/art: Attempt to remove non-JNI local reference, dumping thread
+W/art: Attempt to remove non-JNI local reference, dumping thread
+W/art: Attempt to remove non-JNI local reference, dumping thread
+W/art: Attempt to remove non-JNI local reference, dumping thread
+W/art: Attempt to remove non-JNI local reference, dumping thread
+W/art: Attempt to remove non-JNI local reference, dumping thread
+W/art: Attempt to remove non-JNI local reference, dumping thread
+W/art: Attempt to remove non-JNI local reference, dumping thread
+W/art: Attempt to remove non-JNI local reference, dumping thread
+W/art: Attempt to remove non-JNI local reference, dumping thread
+W/art: Attempt to remove non-JNI local reference, dumping thread
+W/art: Attempt to remove non-JNI local reference, dumping thread
+W/art: Attempt to remove non-JNI local reference, dumping thread
+W/art: Attempt to remove non-JNI local reference, dumping thread
+W/art: Attempt to remove non-JNI local reference, dumping thread
+W/art: Attempt to remove non-JNI local reference, dumping thread
+W/art: Attempt to remove non-JNI local reference, dumping thread
+W/art: Attempt to remove non-JNI local reference, dumping thread
+W/art: Attempt to remove non-JNI local reference, dumping thread
+W/art: Attempt to remove non-JNI local reference, dumping thread
+W/art: Attempt to remove non-JNI local reference, dumping thread
+D/Capacitor: Handling local request: http://localhost/assets/icon/favicon.png
+W/art: Attempt to remove non-JNI local reference, dumping thread
+E/Capacitor/Console: File: http://localhost/static/js/4.ba83f8d2.chunk.js - Line 2 - Msg: Uncaught (in promise) TypeError: Object.entries is not a function
