@@ -268,29 +268,4219 @@
       }
     ]
   },
-"repac":{
-            "participantes":[
-                {"nome":"ADRIANA S. DE OLIVEIRA","cargo":"PRESIDENTE","entidade":"SINDICATO DOS TRABALHADORES RURAIS","email":"drica.76@live.com,","telefone":"(22) 99941-8775,","observador":false},
-                {"nome":"ANA PAULA RODRIGUES DE SOUZA","cargo":"ASSESSORA TÉCNICA","entidade":"SECRETARIA DE AMBIENTE, AGRICULTURA, ABASTECIMENTO E PESCA","email":"arqanapaula_5@hotmail.com,","telefone":"(22) 99908-9851,","observador":false},
-                {"nome":"CLÁUDIO LEÃO BARRETO","cargo":"SECRETÁRIO","entidade":"SECRETARIA DE AMBIENTE, AGRICULTURA, ABASTECIMENTO E PESCA","email":"claudio.frutificar@gmail.com,","telefone":"(22) 99949-5843,","observador":false},
-                {"nome":"Eduardo da Silva","cargo":"Coordenador Nacional de Assuntos Aleatórios","entidade":"EMATEste","email":"rodrigo.cotrim@ibge.gov.br,claudia.amorim@ibge.gov.br","telefone":"(21) 2142-3521,","observador":false},
-                {"nome":"EVERTON DE OLIVEIRA LESSA ","cargo":"SUPERVISOR LOCAL","entidade":"EMATER/RJ","email":"eslocar.emater@gmail.com,","telefone":"(22) 2665-5933,(22) 99911-3059","observador":false},
-                {"nome":"IZAÍAS PEREIRA DE ANDRADE","cargo":"SUPERINTENDENTE DE AMBIENTE","entidade":"SECRETARIA DE AMBIENTE, AGRICULTURA, ABASTECIMENTO E PESCA","email":"ip48andrade@yahoo.com.br,","telefone":"(22) 98108-8754,","observador":false},
-                {"nome":"LUCIA DE SOUZA","cargo":"ANALISTA","entidade":"EMATER","email":"claudia.amorim@ibge.gov.br,","telefone":"(21) 99999-9999,","observador":false},
-                {"nome":"Luciana","cargo":"Coordenador Nacional de CMGE","entidade":"IBGEteste","email":"luciana.prazeres@ibge.gov.br,","telefone":"(21) 2142-4745,","observador":false},
-                {"nome":"LUCIANO VIEIRA CALHEIA","cargo":"TÉCNICO AGROPECUÁRIO","entidade":"SECRETARIA DE AMBIENTE, AGRICULTURA, ABASTECIMENTO E PESCA","email":"seagrararuama@gmail.com,","telefone":"(22) 99922-4506,","observador":false},
-                {"nome":"LUIZ CLAUDIO PORTO DO NASCIMENTO","cargo":"SSP","entidade":"PREFEITURA MUNICIPAL DE ARARUAMA","email":"claudioararuamarj@gmail.com,","telefone":"(22) 98828-6972,(22) 2664-2057","observador":false},
-                {"nome":"MARLY DA SILVA GONÇALVES","cargo":"OFICIAL ADMINISTRATIVO","entidade":"CÂMARA MUNICIPAL DE ARAUAMA","email":"marlymeg@yahoo.com.br,","telefone":"(22) 99795-8133,(22) 99816-1025","observador":false}
-            ],
-            "info":{
-                "data":"2020-03-01 10:00:00",
-                "cod_subarea":"3300209200",
-                "siape_presidente":"2340306",
-                "local":"Prefeitura de Araruama",
-                "tipo":"primeira",
-                "complemento":"teste teste",
-                "status":"realizada"
-            }  
+  "repac": {
+    "participantes": [
+      {
+        "cod_membro": "133039",
+        "nome": "ADãO VIEIRA DOS SANTOS",
+        "cargo": "Vereador",
+        "entidade": "Câmara Municipal de Vereadores",
+        "email": [
+          "vereadorvidrinho@cmva.sc.gov.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99930-6867",
+            "ramal": null
+          },
+          {
+            "numero": "(48)99955-8000",
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "134551",
+        "nome": "ADRIANA PRATI",
+        "cargo": "Coordenadora",
+        "entidade": "Colegio Ethicos",
+        "email": [
+          "colegioethicos@contato.net",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)3522-3424",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "193033",
+        "nome": "ADRIANO DO CANTO FERNANDES",
+        "cargo": "Síndico",
+        "entidade": "Residencial Ed. Village",
+        "email": [
+          "adrianodocantofernandes@gmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)98844-8313",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "193099",
+        "nome": "ALDO ANGELONI",
+        "cargo": "Síndico",
+        "entidade": "Ed. Monte Carlo",
+        "email": [
+          "Só WhatsApp/celular",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99628-1919",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "191962",
+        "nome": "ALEXANDRA PEREIRA",
+        "cargo": "Síndica",
+        "entidade": "Ed. Darolt",
+        "email": [
+          "alexandrapereirasc@gmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99949-1866",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "191913",
+        "nome": "ALIDEN WILLAN",
+        "cargo": "Síndico",
+        "entidade": "Ed. Oasis",
+        "email": [
+          "alidenwr@hotmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99616-0254",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "133967",
+        "nome": "ALIRIA COSTA",
+        "cargo": "Coordenadora",
+        "entidade": "CEI Cidade Encantada",
+        "email": [
+          "prof.aliriac@gmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99632-5712",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "181878",
+        "nome": "ALIRIA COSTA",
+        "cargo": "Indefinido",
+        "entidade": "Indefinido",
+        "email": [
+          "prof.aliria@gmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99632-5712",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "181915",
+        "nome": "ANA CELIA MATIAS",
+        "cargo": "Indefinido",
+        "entidade": "Indefinido",
+        "email": [
+          "anaceliamatias@hotmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99688-0522",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "134003",
+        "nome": "ANA CéLIA PEREIRA MATIAS",
+        "cargo": "Responsavel",
+        "entidade": "E.I.M Normélio José Emidio",
+        "email": [
+          "naotem@email.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99688-0522",
+            "ramal": null
+          },
+          {
+            "numero": "(48)3524-9042",
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "134025",
+        "nome": "ANA LúCIA DOS SANTOS",
+        "cargo": "Coordenadora",
+        "entidade": "CEI Bernadete Costa Nolla",
+        "email": [
+          "aninha@contato.net",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99906-0475",
+            "ramal": null
+          },
+          {
+            "numero": "(48)98837-8423",
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "191903",
+        "nome": "ANA PAULA ALEXANDRE OENING",
+        "cargo": "Síndica",
+        "entidade": "Residencial Vale do Sol",
+        "email": [
+          "anapaulaoening@hotmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99162-0874",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "191967",
+        "nome": "ANDRé MENEZES",
+        "cargo": "Síndico",
+        "entidade": "Cond. Res. Golden Coast",
+        "email": [
+          "andrebmenezes@bol.com.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99698-5215",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "138926",
+        "nome": "ANDRé PIETSCH SERAFIN",
+        "cargo": "Presidente",
+        "entidade": "ACIVA",
+        "email": [
+          "executivo@acivaararangua.com.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)3524-0061",
+            "ramal": null
+          },
+          {
+            "numero": "(48)98414-9955",
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "191950",
+        "nome": "ANDREI MACARINI",
+        "cargo": "Síndico",
+        "entidade": "Ed. Campo di Fiori",
+        "email": [
+          "macarini@gmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99995-7299",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "134038",
+        "nome": "ANGELA GOULART",
+        "cargo": "Coordenadora",
+        "entidade": "Pré-escolar Raio de Luar",
+        "email": [
+          "angelagoulart@hotmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99995-4088",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "134036",
+        "nome": "ARIANE OLIVEIRA DE ALMEIDA",
+        "cargo": "SECRETÁRIA",
+        "entidade": "SECRETARIA MUNICIPAL DE EDUCAÇÃO",
+        "email": [
+          "fundamental.sme@ararangua.sc.gov.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)3903-1800",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "193124",
+        "nome": "ARTHUR GOULARTE",
+        "cargo": "Síndico",
+        "entidade": "Residencial Ambar",
+        "email": [
+          "arthurgoularte307@gmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)98860-7229",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "191958",
+        "nome": "AURéLIA LOPES",
+        "cargo": "Síndica",
+        "entidade": "Res. Dona Almira",
+        "email": [
+          "aurelialopes@yahoo.com.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99610-3320",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "181944",
+        "nome": "BARBARA CHUSTMAN",
+        "cargo": "Assessora",
+        "entidade": "EEB Bernardino Sena Campos",
+        "email": [
+          "bcc.13@hotmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99614-7465",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "143993",
+        "nome": "BRUNO TEIXEIRA GUIMARÃES",
+        "cargo": "Coordenador",
+        "entidade": "CRAS",
+        "email": [
+          "cras@ararangua.sc.gov.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)3522-3239",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "181948",
+        "nome": "BRUNO TEIXEIRA GUIMARAES",
+        "cargo": "Secretario",
+        "entidade": "Secretaria de Assistência Social",
+        "email": [
+          "executivo.social@ararangua.sc.gov.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99937-2415",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "191924",
+        "nome": "CAMILA MACHADO NUNES",
+        "cargo": "Síndica",
+        "entidade": "Ed. Antares",
+        "email": [
+          "camilanunesvr@hotmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99638-5436",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "191948",
+        "nome": "CELITON MACHADO",
+        "cargo": "Síndico",
+        "entidade": "Ed. Santos Dumont",
+        "email": [
+          "adegadomachado@hotmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99985-1558",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "181885",
+        "nome": "CINTHIA",
+        "cargo": "Indefinido",
+        "entidade": "Indefinido",
+        "email": [
+          "deoliveira19@gmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99975-5956",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "134021",
+        "nome": "CINTHIA CORREA DE OLIVEIRA",
+        "cargo": "Coordenadora",
+        "entidade": "CEI Primeiros Passos",
+        "email": [
+          "deoliveiracinthia19@gmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)3524-6283",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "181942",
+        "nome": "CIRLEI BENTO",
+        "cargo": "Indefinido",
+        "entidade": "CEI Jardim Cibeli",
+        "email": [
+          "Indefinido",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99949-4587",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "132242",
+        "nome": "CRISTIANE BERNARDO DE OLIVEIRA",
+        "cargo": "DIRETOR",
+        "entidade": "EEB PROF. OTÍLIA DA SILVA BERTI",
+        "email": [
+          "eebosberti@sed.sc.gov.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)3529-0201",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "181867",
+        "nome": "CRISTIANE OLIVEIRA",
+        "cargo": "Indefinido",
+        "entidade": "Indefinido",
+        "email": [
+          "cboliveira07@hotmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99680-7325",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "138944",
+        "nome": "CRISTIANO COSTA",
+        "cargo": "Diretor",
+        "entidade": "Cristiano Contabilidade – Administração de Condomínios e Empresas",
+        "email": [
+          "cristiano.costa@contato.net",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)3524-6722",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "133094",
+        "nome": "CRISTIANO DA SILVA COSTA",
+        "cargo": "Vereador",
+        "entidade": "Câmara Municipal de Vereadores",
+        "email": [
+          "vereadortano@cmva.sc.gov.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99965-6645",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "138934",
+        "nome": "CRISTIANO DA SILVA MEDEIROS",
+        "cargo": "Sócio-Proprietário",
+        "entidade": "Valore Administradora de Condomínios",
+        "email": [
+          "atendimento@valorecondominios.com.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)3526-0591",
+            "ramal": null
+          },
+          {
+            "numero": "(48)99106-3327",
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "181876",
+        "nome": "CRISTINA ALVES",
+        "cargo": "Indefinido",
+        "entidade": "Indefinido",
+        "email": [
+          "notas@extensaox.com.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99995-8424",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "134545",
+        "nome": "CRISTINA ALVES",
+        "cargo": "Coordenadora",
+        "entidade": "Colégio Extensão X",
+        "email": [
+          "notas@extensaox.com.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)3522-1020",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "181894",
+        "nome": "DAIANA NUNES EMERIM",
+        "cargo": "Indefinido",
+        "entidade": "Indefinido",
+        "email": [
+          "daianaemerim@gmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99628-7174",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "134034",
+        "nome": "DAIANA NUNES EMERIM",
+        "cargo": "Coordenadora",
+        "entidade": "Pré-escolar Sonho Infantil",
+        "email": [
+          "daianaemerim@hotmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)3524-3389",
+            "ramal": null
+          },
+          {
+            "numero": "(48)99975-3570",
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "133140",
+        "nome": "DAIANE BALTAZAR CANDIDO",
+        "cargo": "DIRETORA",
+        "entidade": "EEB PROF. ISABEL FLORES HUBBE",
+        "email": [
+          "eebifhubbe@sed.sc.gov.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)3529-0289",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "181881",
+        "nome": "DANIEL PIZZETTI",
+        "cargo": "Indefinido",
+        "entidade": "Indefinido",
+        "email": [
+          "daniel.pizzetti@hotmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)98837-2052",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "132262",
+        "nome": "DANIEL PIZZETTI",
+        "cargo": "Diretor",
+        "entidade": "EEB Professor Clovis Goulart",
+        "email": [
+          "goulartclovis@hotmail.com",
+          "daniel_pizzetti@hotmail.com"
+        ],
+        "telefone": [
+          {
+            "numero": "(48)3529-0108",
+            "ramal": "00"
+          },
+          {
+            "numero": "(48)98837-2052",
+            "ramal": "00"
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "133052",
+        "nome": "DANIEL VIRIATO AFONSO",
+        "cargo": "Vereador",
+        "entidade": "Câmara Municipal de Vereadores",
+        "email": [
+          "vereadordaniel@cmva.sc.gov.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99616-9490",
+            "ramal": null
+          },
+          {
+            "numero": "(48)99106-0330",
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "191912",
+        "nome": "DANTE LUIZ PIZZATTO",
+        "cargo": "Síndico",
+        "entidade": "Ed. Eleonora",
+        "email": [
+          "dantepizzatto@hotmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)98805-0861",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "193121",
+        "nome": "DARCI ANTUNES",
+        "cargo": "Síndico",
+        "entidade": "Cond. Atenas",
+        "email": [
+          "Só WhatsApp/celular",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99643-6667",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "133056",
+        "nome": "DIEGO ROSA PIRES",
+        "cargo": "Vereador",
+        "entidade": "Câmara Municipal de Vereadores",
+        "email": [
+          "vereadordiegopires@cmva.sc.gov.br",
+          "diegorosapires@outlook.com"
+        ],
+        "telefone": [
+          {
+            "numero": "(48)98828-2920",
+            "ramal": null
+          },
+          {
+            "numero": "(48)99999-5970",
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "181938",
+        "nome": "DIEGO SCHWARTZ",
+        "cargo": "Oficial",
+        "entidade": "PMSC",
+        "email": [
+          "1961ccmt@pm.sc.gov.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)3521-4170",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "134218",
+        "nome": "DIRLEI FERRI",
+        "cargo": "ENFERMEIRA COORDENADORA",
+        "entidade": "SECRETARIA DA SAÚDE",
+        "email": [
+          "psf.sms@ararangua.sc.gov.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)3903-1900",
+            "ramal": null
+          },
+          {
+            "numero": "(48)99634-2655",
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "191959",
+        "nome": "DORES NAZáRIO",
+        "cargo": "Síndica",
+        "entidade": "Centro Executivo",
+        "email": [
+          "dores.nazario@yahoo.com.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99970-3974",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "133971",
+        "nome": "ECILDA PEREIRA LUIZ",
+        "cargo": "Diretora",
+        "entidade": "E.B.M João Matias",
+        "email": [
+          "teka.cardoso@hotmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)3524-0490",
+            "ramal": null
+          },
+          {
+            "numero": "(48)99985-3887",
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "181887",
+        "nome": "EDEMIR BARBOSA",
+        "cargo": "Indefinido",
+        "entidade": "Indefinido",
+        "email": [
+          "eebjpaes@sed.sc.gov.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99605-7815",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "191957",
+        "nome": "EDSON ZANETTE",
+        "cargo": "Síndico",
+        "entidade": "Ed. Arco do Triunfo",
+        "email": [
+          "edsonzanette@hotmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99155-7244",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "194015",
+        "nome": "ELAINE",
+        "cargo": "Subsíndica",
+        "entidade": "Residencial Bela Vista",
+        "email": [
+          "Só WhatsApp/celular",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99997-9688",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "134008",
+        "nome": "ELISA ARIGONI MARTINS",
+        "cargo": "Responsavel",
+        "entidade": "E.I.M Lagoa do Caverá",
+        "email": [
+          "elisaarigonimartins@gmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99848-9056",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "181957",
+        "nome": "ESTELAMARIS RECH DA FONSECA",
+        "cargo": "Diretora",
+        "entidade": "EEB Castro Alves",
+        "email": [
+          "estelamarisrech@yahoo.com.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99906-0321",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "132271",
+        "nome": "ESTELAMARIS RECH FONSECA",
+        "cargo": "Diretora",
+        "entidade": "EEB Castro Alves",
+        "email": [
+          "eebcalves@sed.sc.gov.br",
+          "estelamarisrech@yahoo.com.br"
+        ],
+        "telefone": [
+          {
+            "numero": "(48)3529-0107",
+            "ramal": "00"
+          },
+          {
+            "numero": "(48)3529-0157",
+            "ramal": "00"
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "134174",
+        "nome": "EVELYN ELIAS",
+        "cargo": "Secretaria da Saúde",
+        "entidade": "SECRETARIA DE SAÚDE",
+        "email": [
+          "auditoria.sms@ararangua.sc.gov.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)3903-1900",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "134000",
+        "nome": "FABIANA CARDOSO DO CANTO",
+        "cargo": "Coordenadora",
+        "entidade": "CEI Maria e João",
+        "email": [
+          "fabianacardosodocanto@yahoo.com.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99603-6661",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "181929",
+        "nome": "FABIANA CARDOSO DO CANTO",
+        "cargo": "Indefinido",
+        "entidade": "Indefinido",
+        "email": [
+          "fabianacardosodocanto@yahoo.com.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99603-6661",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "134024",
+        "nome": "FABIANA GUELERI",
+        "cargo": "Responsável",
+        "entidade": "E.I.M Lagoão",
+        "email": [
+          "pendente@pendente.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)98821-6935",
+            "ramal": null
+          },
+          {
+            "numero": "(48)3524-5401",
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "134161",
+        "nome": "FRANCISCO DIELLO DE SOUZA",
+        "cargo": "SECRETARIO DE PLANEJAMENTO",
+        "entidade": "SECRETARIA DE PLANEJAMENTO, INDUSTRIA E COMERCIO",
+        "email": [
+          "diello.souza@bol.com.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)3521-0900",
+            "ramal": null
+          },
+          {
+            "numero": "(48)99104-0580",
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "191865",
+        "nome": "GABRIEL ZANETTE",
+        "cargo": "Síndico",
+        "entidade": "Residencial Vó Maria",
+        "email": [
+          "gabriel.recco@torrecid.com.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99989-6393",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "191969",
+        "nome": "GEMERSON CANTO",
+        "cargo": "Síndico",
+        "entidade": "Residencial Vila de Rei",
+        "email": [
+          "gemersoncanto@gmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99955-7799",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "134558",
+        "nome": "GILSON RENATO RAMOS BRITTO",
+        "cargo": "MEDICO VETERINÁRIO",
+        "entidade": "CIDASC",
+        "email": [
+          "ararangua@cidasc.sc.gov.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)3529-0334",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "181923",
+        "nome": "GISELE DA SILVA",
+        "cargo": "Indefinido",
+        "entidade": "Indefinido",
+        "email": [
+          "giselenunessilva@sed.sc.gov.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99917-6635",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "133986",
+        "nome": "GRAZIELA ROCHA",
+        "cargo": "Coordenadora",
+        "entidade": "CEI Alto Feliz",
+        "email": [
+          "grazirocharocha@yahoo.com.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99995-1481",
+            "ramal": null
+          },
+          {
+            "numero": "(48)98836-5394",
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "191876",
+        "nome": "HELISIANE PIZZOLOTTO",
+        "cargo": "Síndica",
+        "entidade": "Res. Cond. Domus",
+        "email": [
+          "anepizzolotto@gmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99690-0497",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "191993",
+        "nome": "HENOR DE MACEDA",
+        "cargo": "Síndico",
+        "entidade": "Cond. Ed. Morada do Sol",
+        "email": [
+          "he.maceda@gmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99998-9070",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "191909",
+        "nome": "HERLON MOTA",
+        "cargo": "Síndico",
+        "entidade": "Cond. Ed. San Remo",
+        "email": [
+          "herlon.mota@olim.com.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)98822-4836",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "132282",
+        "nome": "HOMERO ROQUE BOSH JúNIOR",
+        "cargo": "Extensionista Rural",
+        "entidade": "EPAGRI",
+        "email": [
+          "homero@epagri.sc.gov.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)3529-0128",
+            "ramal": null
+          },
+          {
+            "numero": "(48)99921-3787",
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "134028",
+        "nome": "IDANINA LICKS CRISTóVãO",
+        "cargo": "Coordenadora",
+        "entidade": "Crianças Alegres",
+        "email": [
+          "profninna@hotmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)98841-7629",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "181905",
+        "nome": "IDANINA TRICKS",
+        "cargo": "Indefinido",
+        "entidade": "Indefinido",
+        "email": [
+          "profninna@hotmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)98841-7629",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "133059",
+        "nome": "IGOR BATISTA GOMES",
+        "cargo": "Vereador",
+        "entidade": "Câmara Municipal de Vereadores",
+        "email": [
+          "vereadorigor@cmva.sc.gov.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99901-8398",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "133960",
+        "nome": "INA HELENA PEREIRA AGUIAR",
+        "cargo": "Diretora",
+        "entidade": "E.B.M Nova Divinéia",
+        "email": [
+          "ebmnovadivineia@ararangua.sc.gov.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)3524-2893",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "134536",
+        "nome": "INALY LECHIERI JONES DE OLIVEIRA",
+        "cargo": "Coordenadora",
+        "entidade": "Colegio Futurão",
+        "email": [
+          "dg@fva.com.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)3522-1056",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "191952",
+        "nome": "ISETE ALBANO",
+        "cargo": "Síndica",
+        "entidade": "Ed. Dona Edith",
+        "email": [
+          "isetealbano@gmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99955-9684",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "134022",
+        "nome": "IVONETE CORDEIRO CECHINEL",
+        "cargo": "Responsável",
+        "entidade": "E.I.M Campestre do Soares",
+        "email": [
+          "ivoneteccechinel@gmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99665-1267",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "133065",
+        "nome": "JACINTO DASSOLER",
+        "cargo": "Vereador",
+        "entidade": "Câmara Municipal de Vereadores",
+        "email": [
+          "vereadorjacinto@cmva.sc.gov.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99632-0563",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "133069",
+        "nome": "JAIR ARCêNEGO ANASTáCIO",
+        "cargo": "Vereador",
+        "entidade": "Câmara Municipal de Vereadores",
+        "email": [
+          "vereadorjairanastacio@cmva.sc.gov.br",
+          "js.historiador@gmail.com"
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99933-1171",
+            "ramal": null
+          },
+          {
+            "numero": "(48)3524-0327",
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "193102",
+        "nome": "JAIRA GOMES",
+        "cargo": "Síndica",
+        "entidade": "Cond. Res. Laggo Maggiore",
+        "email": [
+          "jairagomes01@hotmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99985-1879",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "181932",
+        "nome": "JANAINA ALEXANDRINO",
+        "cargo": "Indefinido",
+        "entidade": "Indefinido",
+        "email": [
+          "cebjbrosa@sed.sc.gov.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99995-5038",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "132288",
+        "nome": "JANAíNA DE OLIVEIRA BARCELOS",
+        "cargo": "Diretora",
+        "entidade": "EEB Patrulheiro Jucemar Paes",
+        "email": [
+          "eebjpaes@sed.sc.gov.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)3529-0221",
+            "ramal": "00"
+          },
+          {
+            "numero": "(48)99671-1758",
+            "ramal": "00"
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "132297",
+        "nome": "JANAíNA MELO ALEXANDRINO",
+        "cargo": "Diretora",
+        "entidade": "EEB Jordão Bernardo da Rosa",
+        "email": [
+          "eebjbrosa@sed.sc.gov.br",
+          "estrela-jma@hotmail.com"
+        ],
+        "telefone": [
+          {
+            "numero": "(48)3524-0839",
+            "ramal": null
+          },
+          {
+            "numero": "(48)99995-5038",
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "133961",
+        "nome": "JANE APARACIDA PIZZOLO",
+        "cargo": "Coordenadora",
+        "entidade": "CEI Criança Feliz",
+        "email": [
+          "janepizzolo@gmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99621-8866",
+            "ramal": null
+          },
+          {
+            "numero": "(48)98835-3342",
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "138939",
+        "nome": "JERVISON LUIZ MARTINELLI",
+        "cargo": "Diretor",
+        "entidade": "Lider Condomínios",
+        "email": [
+          "atendimento@lidercondominiosc.com.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)3524-6839",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "181898",
+        "nome": "JESSICA MOTA PEREIRA",
+        "cargo": "Indefinido",
+        "entidade": "Indefinido",
+        "email": [
+          "jecyyk@gmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99991-5733",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "191918",
+        "nome": "JOAIR DO CANTO CAETANO",
+        "cargo": "Síndico",
+        "entidade": "Ed. Maktub",
+        "email": [
+          "joaircaetano@hotmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99616-3479",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "133074",
+        "nome": "JOãO ABíLIO PEREIRA",
+        "cargo": "Vereador",
+        "entidade": "Câmara Municipal de Vereadores",
+        "email": [
+          "vereadorpereira@cmva.sc.gov.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99999-1704",
+            "ramal": null
+          },
+          {
+            "numero": "(48)3524-9063",
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "190152",
+        "nome": "JOãO BATISTA BOTEON",
+        "cargo": "Gerente",
+        "entidade": "Presídio Regional de Araranguá",
+        "email": [
+          "presidioararangua@deap.sc.gov.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)3529-0441",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "181873",
+        "nome": "JOELSON FERREIRA",
+        "cargo": "Indefinido",
+        "entidade": "Indefinido",
+        "email": [
+          "joelsonferreira@gmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99995-0100",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "150123",
+        "nome": "JOELSON FERRO",
+        "cargo": "Especialista",
+        "entidade": "EEB PROF. ISABEL FLORES HUBBE",
+        "email": [
+          "joelsonferro001@gmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99995-0100",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "181933",
+        "nome": "JONAS RODRIGUES",
+        "cargo": "Indefinido",
+        "entidade": "Indefinido",
+        "email": [
+          "lipurdino@gmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)9999-9999",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "133048",
+        "nome": "JORGE LUIS PEREIRA",
+        "cargo": "Vereador",
+        "entidade": "Câmara Municipal de Vereadores",
+        "email": [
+          "vereadorjorginho@cmva.sc.gov.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99140-1282",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "133079",
+        "nome": "JOSé CARLOS DA ROSA",
+        "cargo": "Vereador",
+        "entidade": "Câmara Municipal de Vereadores",
+        "email": [
+          "vereadorneno@cmva.sc.gov.br",
+          "nenofontoura@hotmail.com.br"
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99915-2590",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "132302",
+        "nome": "JOSé HILSON SASSO",
+        "cargo": "Diretor Geral",
+        "entidade": "SAMAE",
+        "email": [
+          "samae@contato.net",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)3524-0837",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "133082",
+        "nome": "JOSé MáRCIO SCARSANELLA",
+        "cargo": "Vereador",
+        "entidade": "Câmara Municipal de Vereadores",
+        "email": [
+          "vereadortubinho@cmva.sc.gov.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99914-2220",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "133086",
+        "nome": "JOSé PAULO ROLDãO",
+        "cargo": "Vereador",
+        "entidade": "Câmara Municipal de Vereadores",
+        "email": [
+          "vereadorroldao@cmva.sc.gov.br",
+          "rodalivre@bol.com.br"
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99906-3750",
+            "ramal": null
+          },
+          {
+            "numero": "(48)3524-3780",
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "191945",
+        "nome": "KILIAN GONçALVES",
+        "cargo": "Síndico",
+        "entidade": "Ed. Vila de Sintra",
+        "email": [
+          "kilian.contato@gmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99955-1603",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "191946",
+        "nome": "KILIAN GONçALVES",
+        "cargo": "Síndico",
+        "entidade": "Ed. Art de Vivre",
+        "email": [
+          "kilian.contato@gmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99955-1603",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "191971",
+        "nome": "LEILA MACHADO",
+        "cargo": "Síndica",
+        "entidade": "Mondrian Residence",
+        "email": [
+          "administrador@cristianocontabilidade.com.br",
+          "leilamachadopassos@gmail.com"
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99633-1695",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "134540",
+        "nome": "LETíCIA DE BEM",
+        "cargo": "Coordenadora",
+        "entidade": "Colegio Futurão",
+        "email": [
+          "financeiro@futurao.com.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)3522-1056",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "133996",
+        "nome": "LILIAN CRISTINA LEONARDO TEIXEIRA",
+        "cargo": "Responsavel",
+        "entidade": "E.I.M Itoupaba",
+        "email": [
+          "lilian_ws@hotmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)98854-5663",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "191951",
+        "nome": "LOREN DONADEL",
+        "cargo": "Síndica",
+        "entidade": "Ed. Mônaco",
+        "email": [
+          "lorendonadel@hotmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99955-9151",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "134007",
+        "nome": "LOURDES BERNADETE CORREA RAMOS RAMOS",
+        "cargo": "Coordenadora",
+        "entidade": "CEI Cidade Alta",
+        "email": [
+          "naotem@email.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)98832-5715",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "181918",
+        "nome": "LOURDES RAMOS",
+        "cargo": "Indefinido",
+        "entidade": "Indefinido",
+        "email": [
+          "lourdesbcz@bol.com.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99955-8333",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "133979",
+        "nome": "LUANA",
+        "cargo": "Coordenadora",
+        "entidade": "CEI Pequenos Notáveis",
+        "email": [
+          "pendente@pendente.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99643-2999",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "181951",
+        "nome": "LUCIANA COSTA MARTINELLI",
+        "cargo": "Diretora",
+        "entidade": "EEB de Araranguá",
+        "email": [
+          "lucianacmartinello@gmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99955-0737",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "132309",
+        "nome": "LUCIANA COSTA MARTINELLI",
+        "cargo": "Diretora",
+        "entidade": "EEB Araranguá",
+        "email": [
+          "eebararangua@sed.sc.gov.br",
+          "lucianacmartinelli@gmail.com"
+        ],
+        "telefone": [
+          {
+            "numero": "(48)3529-0113",
+            "ramal": null
+          },
+          {
+            "numero": "(48)99955-0737",
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "133147",
+        "nome": "LUCIANA FERRO SCHINEIDER",
+        "cargo": "Extensionista Rural",
+        "entidade": "EPAGRI",
+        "email": [
+          "lucianaschneider@epagri.sc.gov.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)3529-0233",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "181911",
+        "nome": "LUCIANA SCHINAIDER",
+        "cargo": "Indefinido",
+        "entidade": "EPAGRI",
+        "email": [
+          "lucianaschinaider@epagri.sc.gov.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)98496-1203",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "193112",
+        "nome": "LUCIANO OLIVO (AMANDA)",
+        "cargo": "Síndico",
+        "entidade": "Residencial Margaux",
+        "email": [
+          "lucianoolivoalmeida@hotmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99969-4908",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "133088",
+        "nome": "LUCIANO ZEFERINO PIRES",
+        "cargo": "Vereador",
+        "entidade": "Câmara Municipal de Vereadores",
+        "email": [
+          "vereadorluciano@cmva.sc.gov.br",
+          "lucianoararangua@gmail.com"
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99603-8753",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "134004",
+        "nome": "LUIZ CARLOS PESSI",
+        "cargo": "DIRETOR",
+        "entidade": "SECRETARIA MUNICIPAL DE EDUCAÇÃO",
+        "email": [
+          "fundamental.sme@ararangua.sc.gov.br",
+          "lepessi@yahoo.com.br"
+        ],
+        "telefone": [
+          {
+            "numero": "(48)3903-1800",
+            "ramal": null
+          },
+          {
+            "numero": "(48)9995-3517",
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "191944",
+        "nome": "LUIZ PEREIRA JUNIOR",
+        "cargo": "Síndico",
+        "entidade": "Res. Cond. Comercial Mont Blanc",
+        "email": [
+          "montblanccondominio@outlook.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99995-3376",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "181870",
+        "nome": "LUIZ PESSI",
+        "cargo": "Indefinido",
+        "entidade": "Indefinido",
+        "email": [
+          "lcpessi@yahoo.com.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99995-3517",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "134577",
+        "nome": "MAIKE ADRIANO VALGAS",
+        "cargo": "Tenente Coronel",
+        "entidade": "Policia Militar SC",
+        "email": [
+          "a@a.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)3521-4152",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "133989",
+        "nome": "MAISA SOARES FERREIRA",
+        "cargo": "Diretora",
+        "entidade": "E.R.M Adelina Maria Silvano Soares",
+        "email": [
+          "pendente@pendente.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)3527-0872",
+            "ramal": null
+          },
+          {
+            "numero": "(48)99975-5179",
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "133968",
+        "nome": "MANOEL SOARES",
+        "cargo": "Diretor",
+        "entidade": "E.B.M Otávio Manoel Anastácio",
+        "email": [
+          "necomelao10@outlook.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)3524-6602",
+            "ramal": null
+          },
+          {
+            "numero": "(48)99992-8037",
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "181882",
+        "nome": "MANOEL SOARES",
+        "cargo": "Indefinido",
+        "entidade": "Indefinido",
+        "email": [
+          "necomelao10@outlook.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99992-8037",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "194011",
+        "nome": "MARCELO DA SILVA",
+        "cargo": "Síndico",
+        "entidade": "Residencial Bela Vista",
+        "email": [
+          "Só WhatsApp/celular",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99699-5212",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "181960",
+        "nome": "MARCIA CARDOSO MACHADO MARTINS",
+        "cargo": "Assessora da direção",
+        "entidade": "EEB Castro Alves",
+        "email": [
+          "marciamartins@gmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)98417-0264",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "191940",
+        "nome": "MARCIO IVO TRAMONTIN DA SILVA",
+        "cargo": "Síndico",
+        "entidade": "Ed. Costa de Prata",
+        "email": [
+          "marciots@contato.net",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99955-9710",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "181889",
+        "nome": "MARCIO MACEDO",
+        "cargo": "Indefinido",
+        "entidade": "Indefinido",
+        "email": [
+          "mmiscedo@gmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99917-9525",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "134983",
+        "nome": "MARIA ALICE AGUIAR",
+        "cargo": "SECRETARIA ASSISTENCIA SOCIAL E HABITAÇAO",
+        "entidade": "PREFEITURA MUNICIPAL ARARANGUA",
+        "email": [
+          "secretaria.social@ararangua.sc.gov.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)3522-3663",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "134030",
+        "nome": "MARIA ALVINA CARBONI ELIAS",
+        "cargo": "Coordenadora",
+        "entidade": "CEI Madre Regina",
+        "email": [
+          "mariaalvina30@hotmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99938-4123",
+            "ramal": null
+          },
+          {
+            "numero": "(48)98865-2616",
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "150187",
+        "nome": "MARIA APARECIDA POSSAMAI DELLA",
+        "cargo": "Secretaria",
+        "entidade": "Polo UAB",
+        "email": [
+          "dellacidadella@gmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99812-3398",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "181941",
+        "nome": "MARIA ELIAS",
+        "cargo": "Coordenadora",
+        "entidade": "CEI Dona Salda Pajnam",
+        "email": [
+          "Indefinido",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99938-4123",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "132317",
+        "nome": "MARIA JOSé BARBOSA VIEIRA",
+        "cargo": "Diretora",
+        "entidade": "EEB Professora Neusa Osteto Cardoso",
+        "email": [
+          "eebpnoc@sed.sc.gov.br",
+          "mariajbvia@gmail.com"
+        ],
+        "telefone": [
+          {
+            "numero": "(48)3529-0101",
+            "ramal": null
+          },
+          {
+            "numero": "(48)99925-7528",
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "132294",
+        "nome": "MARIA TEREZA FERREIRA",
+        "cargo": "DIRETORA",
+        "entidade": "EEB. BERNARDINO SENA CAMPOS",
+        "email": [
+          "mt.ferreira@hotmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)3529-0290",
+            "ramal": "00"
+          },
+          {
+            "numero": null,
+            "ramal": "00"
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "132321",
+        "nome": "MARIA VIEIRA",
+        "cargo": "Diretora",
+        "entidade": "EEB Professora Dolvina Leite de Medeiros",
+        "email": [
+          "eebdlmedeiros@sed.sc.gov.br",
+          "mariaosvaldo2011@hotmail.com"
+        ],
+        "telefone": [
+          {
+            "numero": "(48)3529-0112",
+            "ramal": null
+          },
+          {
+            "numero": "(48)99617-1446",
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "134344",
+        "nome": "MARIANO MAZZUCO NETO",
+        "cargo": "Prefeito",
+        "entidade": "Prefeitura Municipal de Araranguá",
+        "email": [
+          "administracao@ararangua.sc.gov.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)3521-0900",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "132329",
+        "nome": "MARILUCE RODRIGUES DA SILVA BILCK",
+        "cargo": "Diretora",
+        "entidade": "EEB Professora Julieta Aguiar Bertoncine",
+        "email": [
+          "eebprofjulieta@hotmail.com",
+          "marigmj@hotmail.com"
+        ],
+        "telefone": [
+          {
+            "numero": "(48)3529-0287",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "132264",
+        "nome": "MARINESA APARECIDA FREITAS DA SILVEIRA",
+        "cargo": "Extencionista Social",
+        "entidade": "EPAGRI",
+        "email": [
+          "marinesa@epagri.sc.gov.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)3529-0303",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "181880",
+        "nome": "MARIO POSSAMAI DELLA",
+        "cargo": "Indefinido",
+        "entidade": "Indefinido",
+        "email": [
+          "dellacidadella@gmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99812-3398",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "132279",
+        "nome": "MARISA MAFALDA EROTILDES QUINTINO",
+        "cargo": "DIRETORA",
+        "entidade": "EEB. PROFª EREMETA SOUZA",
+        "email": [
+          "eebesouza@sed.sc.gov.br",
+          "marisa@contato.net"
+        ],
+        "telefone": [
+          {
+            "numero": "(48)3526-3011",
+            "ramal": "00"
+          },
+          {
+            "numero": "(48)99104-2658",
+            "ramal": "00"
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "150115",
+        "nome": "MARISA TRAMONTIN",
+        "cargo": "Professora",
+        "entidade": "EEB Professora Julieta Aguiar Bertoncini",
+        "email": [
+          "marisa.tp@hotmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99924-0573",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "181865",
+        "nome": "MARISA TRAMONTIN",
+        "cargo": "Indefinido",
+        "entidade": "Indefinido",
+        "email": [
+          "marisa.ip@hotmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99924-0573",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "133972",
+        "nome": "MARTIANE",
+        "cargo": "Coordenadora",
+        "entidade": "CEI Tia Valda",
+        "email": [
+          "pendente@pendente.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)98835-7473",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "191942",
+        "nome": "MAURICIO CLEZAR",
+        "cargo": "Síndico",
+        "entidade": "Ed. Benatto",
+        "email": [
+          "mauclezar@hotmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99856-6181",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "133976",
+        "nome": "MAURICIO RéUS",
+        "cargo": "Diretor",
+        "entidade": "E.B.M Almerindo Manoel da Luz",
+        "email": [
+          "almerindomanoel@gmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)3524-0588",
+            "ramal": null
+          },
+          {
+            "numero": "(48)99105-8833",
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "181920",
+        "nome": "MAURICIO REUS",
+        "cargo": "Indefinido",
+        "entidade": "Indefinido",
+        "email": [
+          "mauricio.reus@bol.com.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99105-8833",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "191960",
+        "nome": "MEGALVO LOPES",
+        "cargo": "Síndico",
+        "entidade": "De Ville Residence",
+        "email": [
+          "araujoearaujoadv@bol.com.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99863-7085",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "132306",
+        "nome": "NANCY ANTUNES SIQUEIRA",
+        "cargo": "DIRETORA",
+        "entidade": "EEB. PADRE ANTONIO LUIS DIAS",
+        "email": [
+          "eebaldias@sed.sc.gov.br",
+          "nancyantunes@hotmail.com"
+        ],
+        "telefone": [
+          {
+            "numero": "(48)3529-0106",
+            "ramal": "00"
+          },
+          {
+            "numero": "(48)99936-3020",
+            "ramal": "00"
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "194007",
+        "nome": "NILZA",
+        "cargo": "Administrativo CEMASAS",
+        "entidade": "Secretaria da Saúde",
+        "email": [
+          "Pedir",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99824-2300",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "194016",
+        "nome": "NORMA SAMIRA MATOS",
+        "cargo": "Síndica",
+        "entidade": "Residencial Solar das Avenidas",
+        "email": [
+          "samira.matos@hotmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99624-8825",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "193115",
+        "nome": "OSWALDO VIEIRA",
+        "cargo": "Síndico",
+        "entidade": "Residencial Vermont",
+        "email": [
+          "oswaldovieirajr@hotmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99600-3959",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "191991",
+        "nome": "PATRICIA DE SOUSA",
+        "cargo": "Síndica",
+        "entidade": "Cond. Florenza",
+        "email": [
+          "Somente pelo Whats",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99667-8334",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "193043",
+        "nome": "PEDRO COSTA",
+        "cargo": "Síndico",
+        "entidade": "Residencial Veneza",
+        "email": [
+          "predroramoncostap@gmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99915-8118",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "133093",
+        "nome": "PEDRO PAULO DE SOUZA",
+        "cargo": "Vereador",
+        "entidade": "Câmara Municipal de Vereadores",
+        "email": [
+          "vereadorpaulinho@cmva.sc.gov.br",
+          "pps122@hotmail.com.br"
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99632-6294",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "194020",
+        "nome": "PEDRO TEIXEIRA",
+        "cargo": "Síndico",
+        "entidade": "Edifício Fontana di Feltri",
+        "email": [
+          "pedroteixeira@contato.net",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99985-7778",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "139410",
+        "nome": "PRIMO MENEGALLI JUNIOR",
+        "cargo": "Vice-Prefeito",
+        "entidade": "Prefeitura Municipal de Araranguá",
+        "email": [
+          "junior@menegalli.com.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)98419-1889",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "191941",
+        "nome": "RAFAEL MACHADO",
+        "cargo": "Síndico",
+        "entidade": "Res. Alta Vista",
+        "email": [
+          "rmgomes_@hotmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99684-4947",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "191953",
+        "nome": "RICARDO PAULINO",
+        "cargo": "Síndico",
+        "entidade": "Vogue Residence",
+        "email": [
+          "rpseguross@gmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99964-5744",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "134211",
+        "nome": "RITA DE CASSIA DE MEDEIROS SALIB",
+        "cargo": "DIRETORA",
+        "entidade": "CEJA",
+        "email": [
+          "ceja22@sed.sc.gov.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)3529-0288",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "181891",
+        "nome": "RITA DE CASSIA MEDEIROS",
+        "cargo": "Indefinido",
+        "entidade": "Indefinido",
+        "email": [
+          "rita_salib@hotmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99638-9002",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "181936",
+        "nome": "ROGERIO BERNARDO",
+        "cargo": "Indefinido",
+        "entidade": "Indefinido",
+        "email": [
+          "rogeriobernardo@yahoo.com.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99432-1529",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "181924",
+        "nome": "ROGERIO PESSI",
+        "cargo": "Indefinido",
+        "entidade": "Indefinido",
+        "email": [
+          "pessi4x4@gmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99666-8600",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "132320",
+        "nome": "ROGéRIO PESSI",
+        "cargo": "Presidente",
+        "entidade": "Sindicato dos Produtores Rurais de Araranguá",
+        "email": [
+          "srararangua@faesc.com.br",
+          "pessi4x4@gmail.com"
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99666-8600",
+            "ramal": "00"
+          },
+          {
+            "numero": "(48)3524-5197",
+            "ramal": "00"
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "193120",
+        "nome": "RONALDO MARCELINO",
+        "cargo": "Síndico",
+        "entidade": "Res. Atol das Rocas",
+        "email": [
+          "ronaldo@kilteruniformes.com.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99613-0819",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "133091",
+        "nome": "RONALDO SOARES",
+        "cargo": "Vereador",
+        "entidade": "Câmara Municipal de Vereadores",
+        "email": [
+          "vereadorronaldinho@cmva.sc.gov.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99995-7079",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "190228",
+        "nome": "ROSANE CASTELAN",
+        "cargo": "Gerente",
+        "entidade": "Gerência Regional de Educação - GERED",
+        "email": [
+          "gereduc22@sed.sc.gov.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)3529-0073",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "134032",
+        "nome": "ROSANE TEIXEIRA DOS SANTOS",
+        "cargo": "Responsável",
+        "entidade": "UAB",
+        "email": [
+          "uabararangua@gmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)3524-2048",
+            "ramal": null
+          },
+          {
+            "numero": "(48)99630-6028",
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "181950",
+        "nome": "ROSELANI ROCHA NAZARIO",
+        "cargo": "Diretora",
+        "entidade": "EBM Jardim das Avenidas",
+        "email": [
+          "zelaniian@hotmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99619-3720",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "133962",
+        "nome": "ROSELANI ROCHA NAZáRIO MACIEL",
+        "cargo": "Diretora",
+        "entidade": "E.B.M Jardim das Avenidas",
+        "email": [
+          "caic98@hotmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)3524-0993",
+            "ramal": null
+          },
+          {
+            "numero": "(48)99619-3720",
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "132328",
+        "nome": "ROSELI BATISTA MARTINS",
+        "cargo": "DIRETORA",
+        "entidade": "EEB PROF MOTA PIRES",
+        "email": [
+          "roselibatistamartins@yahoo.com.br",
+          "escolamotapires@hotmail.com"
+        ],
+        "telefone": [
+          {
+            "numero": "(48)3664-4514",
+            "ramal": "00"
+          },
+          {
+            "numero": "(48)98823-4924",
+            "ramal": "00"
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "134014",
+        "nome": "RUBIA BOAVENTURA DE SOUZA",
+        "cargo": "Responsavel",
+        "entidade": "E.I.M Rio dos Anjos",
+        "email": [
+          "naotem@email.com.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99985-3290",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "191973",
+        "nome": "SAMUEL ALMEIDA",
+        "cargo": "Síndico",
+        "entidade": "Residencial Dona Nena",
+        "email": [
+          "samuel.almeida@zipmail.com.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99118-8077",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "132332",
+        "nome": "SANDRA REGINA DE VARGAS",
+        "cargo": "DIRETORA",
+        "entidade": "EEB. PROFª MARIA GARCIA PESSI",
+        "email": [
+          "sandravargas22@gmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)3529-0105",
+            "ramal": "00"
+          },
+          {
+            "numero": "(48)98821-7583",
+            "ramal": "00"
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "131641",
+        "nome": "SANDRIANE NASPOLINI DE OLIVEIRA",
+        "cargo": "COORDENADOR DE ÁREA CD 2020",
+        "entidade": "IBGE",
+        "email": [
+          "sandriane.oliveira@ibg.gov.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)3522-0950",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "191875",
+        "nome": "SARAH GUERRA",
+        "cargo": "Síndica",
+        "entidade": "Ed. Gustavo Vinícius",
+        "email": [
+          "sarah_rguerra@hotmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99647-9795",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "133984",
+        "nome": "SAYANE DA SILVA DE ALMEIDA",
+        "cargo": "Diretor",
+        "entidade": "E.R.M Deputado Adhemar Ghisi",
+        "email": [
+          "sayanealmeida20@outlook.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)3527-0394",
+            "ramal": null
+          },
+          {
+            "numero": "(48)99659-4601",
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "133994",
+        "nome": "SILVANA SILVEIRA DA SILVA",
+        "cargo": "Coordenadora",
+        "entidade": "CEI Gente Inocente",
+        "email": [
+          "silsilveirasilva@hotmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99619-1951",
+            "ramal": null
+          },
+          {
+            "numero": "(48)98832-6732",
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "132337",
+        "nome": "SIMONE CASAGRANDE",
+        "cargo": "DIRETORA",
+        "entidade": "EEB. OPERÁRIA",
+        "email": [
+          "mone_baesso@yahoo.com.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99603-1558",
+            "ramal": "00"
+          },
+          {
+            "numero": "(48)99647-9744",
+            "ramal": "00"
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "193996",
+        "nome": "SIMONE ENFERMEIRA CHEFE",
+        "cargo": "Enfermeira",
+        "entidade": "Secretaria da Saúde",
+        "email": [
+          "Pedir",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)3526-0339",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "133990",
+        "nome": "SIMONE SOARES DE MATOS",
+        "cargo": "Coordenadora",
+        "entidade": "CEI São José",
+        "email": [
+          "ceisaojose@ararangua.sc.gov.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)98834-2915",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "181900",
+        "nome": "SIMONE SOARES DE MATOS",
+        "cargo": "Indefinido",
+        "entidade": "Indefinido",
+        "email": [
+          "ceisaojose@ararangua.sc.gov.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)98834-2915",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "133958",
+        "nome": "SIRLEI DA SILVA LEMOS",
+        "cargo": "Coordenadora",
+        "entidade": "CEI Jardim Cibeli",
+        "email": [
+          "sirleinereulemos@gmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)3524-5878",
+            "ramal": null
+          },
+          {
+            "numero": "(48)99949-4987",
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "181877",
+        "nome": "SIRLEI MACIEL SILVANO",
+        "cargo": "Indefinido",
+        "entidade": "Indefinido",
+        "email": [
+          "sirlei.aru@hotmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99619-4325",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "150168",
+        "nome": "SIRLEI MACIEL SILVANO",
+        "cargo": "ATP",
+        "entidade": "EEB PROF MOTA PIRES",
+        "email": [
+          "sirlei.aru@hotmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99619-4325",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "191956",
+        "nome": "SOCRATES SOUSA",
+        "cargo": "Síndico",
+        "entidade": "Res. Vivendas de Portugal",
+        "email": [
+          "socratessousa@yahoo.com.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99927-7470",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "191974",
+        "nome": "THAISE INáCIO",
+        "cargo": "Síndica",
+        "entidade": "Ed. Di Rosa",
+        "email": [
+          "cleziotintas@outlook.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99982-5554",
+            "ramal": null
+          },
+          {
+            "numero": "(48)3527-0021",
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "191954",
+        "nome": "VALDETE CASTELLER",
+        "cargo": "Síndica",
+        "entidade": "Res. Arina Ghellere",
+        "email": [
+          "castellerseguros@hotmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99993-6925",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "181955",
+        "nome": "VALQUIRIA DO CANTO",
+        "cargo": "Coordenadora",
+        "entidade": "CEI Reino da Fantasia",
+        "email": [
+          "valquiriacanto@hotmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99647-2615",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "133977",
+        "nome": "VALQUIRIA SOUZA DO CANTO",
+        "cargo": "Coordenadora",
+        "entidade": "CEI Reino da Fantasia",
+        "email": [
+          "valquiriacanto28@hotmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99647-2615",
+            "ramal": null
+          },
+          {
+            "numero": "(48)98834-8968",
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "191877",
+        "nome": "VANESSA COLOMBO",
+        "cargo": "Síndica",
+        "entidade": "Res. Alvorada",
+        "email": [
+          "vanessacolombo23@gmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99969-9965",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "181907",
+        "nome": "VANIO ALVES",
+        "cargo": "Indefinido",
+        "entidade": "Indefinido",
+        "email": [
+          "vanioalves@hotmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99684-5184",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "193106",
+        "nome": "VERA SILVANO",
+        "cargo": "Síndica",
+        "entidade": "Residencial City",
+        "email": [
+          "residencialcity@gmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99800-4880",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "134528",
+        "nome": "VILCIONEI BAGGIO",
+        "cargo": "Diretor",
+        "entidade": "Colégio Murialdo",
+        "email": [
+          "diretor.aru@murialdo.com.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)3522-0636",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "191965",
+        "nome": "VILZA CUNHA OLIVEIRA",
+        "cargo": "Síndica",
+        "entidade": "Ed. Memphis",
+        "email": [
+          "capitusc97@hotmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(48)99638-6333",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      }
+    ],
+    "reunioes": [
+      {
+        "data": "2019-10-01 14:00:00",
+        "cod_subarea": "4201406200",
+        "siape_presidente": "2103415",
+        "local": "Auditório da SAMAE",
+        "tipo": "primeira",
+        "complemento": "",
+        "status": "realizada",
+        "participantes": [
+          "131641",
+          "132242",
+          "132262",
+          "132264",
+          "132271",
+          "132279",
+          "132282",
+          "132288",
+          "132294",
+          "132297",
+          "132302",
+          "132306",
+          "132309",
+          "132317",
+          "132320",
+          "132321",
+          "132328",
+          "132329",
+          "132332",
+          "132337",
+          "133039",
+          "133048",
+          "133052",
+          "133056",
+          "133059",
+          "133065",
+          "133069",
+          "133074",
+          "133079",
+          "133082",
+          "133086",
+          "133088",
+          "133091",
+          "133093",
+          "133094",
+          "133140",
+          "133147",
+          "133958",
+          "133960",
+          "133961",
+          "133962",
+          "133967",
+          "133968",
+          "133971",
+          "133972",
+          "133976",
+          "133977",
+          "133979",
+          "133984",
+          "133986",
+          "133989",
+          "133990",
+          "133994",
+          "133996",
+          "134000",
+          "134003",
+          "134004",
+          "134007",
+          "134008",
+          "134014",
+          "134021",
+          "134022",
+          "134024",
+          "134025",
+          "134028",
+          "134030",
+          "134030",
+          "134032",
+          "134034",
+          "134036",
+          "134038",
+          "134161",
+          "134174",
+          "134211",
+          "134218",
+          "134344",
+          "134528",
+          "134536",
+          "134540",
+          "134545",
+          "134551",
+          "134558",
+          "134577",
+          "134983",
+          "138926",
+          "138934",
+          "138939",
+          "138944",
+          "139410",
+          "143993",
+          "150115",
+          "150123",
+          "150168",
+          "150187",
+          "181867",
+          "181887",
+          "181889",
+          "181898",
+          "181907",
+          "181923",
+          "181933",
+          "181936",
+          "181938",
+          "181944",
+          "181960"
+        ]
+      }
+    ]
   },
   "info": {
     "cod_mun": "3300209",
