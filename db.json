@@ -416,24 +416,6 @@
           "191913",
           "193099"
         ]
-      },
-      {
-        "data": "2020-03-04 14:00:00",
-        "cod_subarea": "2927408215",
-        "siape_presidente": "2103806",
-        "local": "Prefeitura Bairro Subúrbio e Ilhas",
-        "tipo": "local",
-        "complemento": "",
-        "status": "realizada",
-        "participantes": [
-          "133967",
-          "191913",
-          "191962",
-          "193099",
-          "193033",
-          "134551",
-	  "133039"
-        ]
       }
     ]
   },
