@@ -341,13 +341,104 @@
         "ativo": true
       }
     ],    
+    
     "reunioes": [
       {
-        "data": "2019-10-21 09:00:00",
-        "cod_subarea": "3500105200",
-        "siape_presidente": "773975",
-        "local": "Anfiteatro da Biblioteca Publica Municipal",
+        "data": "2020-02-12 14:00:00",
+        "cod_subarea": "2927408201",
+        "siape_presidente": "768261",
+        "local": "Centro de Cultura da Câmara Municipal de Salvador",
         "tipo": "primeira",
+        "complemento": "O encontro terá como objetivo dar maior transparência ao processo e buscar, junto a autoridades e sociedade, apoios e parcerias para viabilizar as atividades censitárias. Para mais informações, favor entrar em contato através dos seguintes números: (71) 2105-8631 / 2105-8668 / 2105-8696.",
+        "status": "realizada",
+        "participantes": [
+          "133967",
+          "191913",
+          "191962",
+          "193099",
+          "193033",
+          "134551",
+	        "133039"
+        ]
+      },
+      {
+        "data": "2020-02-04 11:00:00",
+        "cod_subarea": "2927408201",
+        "siape_presidente": "2103806",
+        "local": "Teste",
+        "tipo": "estadual",
+        "complemento": "Teste",
+        "status": "realizada",
+        "participantes": [
+          "133967"
+        ]
+      },
+      {
+        "data": "2020-02-12 14:00:00",
+        "cod_subarea": "2927408201",
+        "siape_presidente": "768261",
+        "local": "Centro de Cultura da Câmara Municipal de Salvador",
+        "tipo": "segunda",
+        "complemento": "O encontro terá como objetivo dar maior transparência ao processo e buscar, junto a autoridades e sociedade, apoios e parcerias para viabilizar as atividades censitárias. Para mais informações, favor entrar em contato através dos seguintes números: (71) 2105-8631 / 2105-8668 / 2105-8696.",
+        "status": "realizada",
+        "participantes": [
+          "133967",
+          "191913",
+          "191962",
+          "193099",
+          "193033",
+          "134551",
+	        "133039"
+        ]
+      },
+      {
+        "data": "2020-03-04 14:00:00",
+        "cod_subarea": "2927408208",
+        "siape_presidente": "2103806",
+        "local": "Prefeitura Bairro Subúrbio e Ilhas",
+        "tipo": "local",
+        "complemento": "",
+        "status": "realizada",
+        "participantes": [
+          "133967",
+          "191913",
+          "191962",
+          "193099",
+          "193033"
+        ]
+      },
+      {
+        "data": "2020-03-02 15:00:00",
+        "cod_subarea": "2927408201",
+        "siape_presidente": "1356526",
+        "local": "Secretaria de Educação do Estado da Bahia",
+        "tipo": "extraordinaria",
+        "complemento": "",
+        "status": "realizada",
+        "participantes": [
+          "133967",
+          "134551"
+        ]
+      },
+      {
+        "data": "2020-03-11 15:00:00",
+        "cod_subarea": "2927408213",
+        "siape_presidente": "2103806",
+        "local": "Pref. Bairro Liberdade \\ São Caetano",
+        "tipo": "local",
+        "complemento": "",
+        "status": "realizada",
+        "participantes": [
+          "191913",
+          "193099"
+        ]
+      },
+      {
+        "data": "2020-03-04 14:00:00",
+        "cod_subarea": "2927408215",
+        "siape_presidente": "2103806",
+        "local": "Prefeitura Bairro Subúrbio e Ilhas",
+        "tipo": "local",
         "complemento": "",
         "status": "realizada",
         "participantes": [
@@ -356,22 +447,8 @@
           "191962",
           "193099",
           "193033",
-          "134551"
-        ]
-      },
-      {
-        "data": "2020-03-17 09:00:00",
-        "cod_subarea": "3500105200",
-        "siape_presidente": "773975",
-        "local": "Câmara Municipal de Adamantina",
-        "tipo": "segunda",
-        "complemento": "Sua presença será muito importante para o Censo Demográfico 2020 de Adamantina.",
-        "status": "realizada",        
-        "participantes": [
-          "133967",
-          "191913",
-          "191962",
-          "193099"
+          "134551",
+	        "133039"
         ]
       }
     ]
