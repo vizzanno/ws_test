@@ -340,13 +340,13 @@
         "observador": true,
         "ativo": true
       }
-    ],
+    ],    
     "reunioes": [
       {
-        "data": "2019-10-01 14:00:00",
-        "cod_subarea": "4201406200",
-        "siape_presidente": "2103415",
-        "local": "Auditório da SAMAE",
+        "data": "2019-10-21 09:00:00",
+        "cod_subarea": "3500105200",
+        "siape_presidente": "773975",
+        "local": "Anfiteatro da Biblioteca Publica Municipal",
         "tipo": "primeira",
         "complemento": "",
         "status": "realizada",
@@ -358,6 +358,21 @@
           "193033",
           "134551",
           "133039"
+        ]
+      },
+      {
+        "data": "2020-03-17 09:00:00",
+        "cod_subarea": "3500105200",
+        "siape_presidente": "773975",
+        "local": "Câmara Municipal de Adamantina",
+        "tipo": "segunda",
+        "complemento": "Sua presença será muito importante para o Censo Demográfico 2020 de Adamantina.",
+        "status": "realizada",        
+        "participantes": [
+          "133967",
+          "191913",
+          "191962",
+          "193099"
         ]
       }
     ]
